@@ -3,14 +3,21 @@
 
 :root {
   /* Brand palette */
-  --tal-teal-bg:   #e4f4f2;  /* light teal page background */
-  --tal-teal-soft: #d4ecea;  /* slightly deeper teal for surfaces */
+  --tal-teal-bg:   #e6f4f1;  /* light teal page background (matches KPI tracker band) */
+  --tal-teal-soft: #d6ece7;  /* slightly deeper teal for surfaces */
   --tal-navy:      #1a2a4f;  /* navy: header, headings, accents */
   --tal-navy-dark: #111d38;
   --tal-teal-pop:  #0e7c86;  /* teal pop for hovers/interactive */
   --tal-ink:       #16233f;  /* body text */
 
-  /* Map onto Material's variables (palette: custom) */
+  /* Georgia for body text */
+  --md-text-font: "Georgia";
+}
+
+/* Material assigns the scheme variables on the color-scheme element, which
+   beats a :root override. Map onto the same selector so the teal actually
+   paints the page (otherwise the background stays white). */
+[data-md-color-scheme="default"] {
   --md-default-bg-color:        var(--tal-teal-bg);
   --md-primary-fg-color:        var(--tal-navy);
   --md-primary-fg-color--light: #2c3f6b;
@@ -18,9 +25,6 @@
   --md-accent-fg-color:         var(--tal-teal-pop);
   --md-typeset-color:           var(--tal-ink);
   --md-typeset-a-color:         var(--tal-navy);
-
-  /* Georgia for body text */
-  --md-text-font: "Georgia";
 }
 
 /* Georgia everywhere for prose; leave code in monospace */
