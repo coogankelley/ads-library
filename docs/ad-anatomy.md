@@ -23,15 +23,15 @@ This is the most important distinction in how we build ads, so get it now:
 - **The body** is everything from Relatability through CTA 2. You write it once. You film it once. It does not change.
 - **The hook** is part 1 only. It is the one variable. You write 15 to 20 of them and film all of them against that same body.
 
-Why we do it this way: if you change five things every time, you never learn what worked. By holding the body steady and only swapping the hook, the data can actually tell you which first-3-seconds earned their spot. Whichever hooks move people, you keep. The rest you cut. That is what "test one variable at a time" means in practice. (See [Testing](testing.md).)
+Why: holding the body steady so only the hook changes is what lets the data tell you which first three seconds earned their spot. That is the one-variable-at-a-time method, explained in full in [The Ads Strategy](strategy.md) and [Testing](testing.md).
 
 ## The format is one of several
 
 The 6 parts are the constant. What changes is how long the ad runs, the order the parts come in, and where you send her at the end. Long-form edification is one way to do it, not the only way. You pick the type first, then build the 6 parts to fit it. Three we run from:
 
-- **Long-form edification.** You on camera, telling your story and, if the webclass host is someone other than you, edifying that host, then driving her to the free training. The longer format, written so the host beats can be lifted out later if you ever run your own webinar. This is the one most examples in this library use.
+- **Long-form edification.** You on camera, telling your story and, if the webclass host is someone other than you, edifying that host, then driving her to the free training. The longer format, written so the host beats can be lifted out later if you ever run your own webinar. This is the one most examples in this library use. Best when you have a webclass to point to and you are comfortable carrying a longer story on camera.
 - **Short-form, direct response.** A much shorter video. Instead of a link straight to the webclass, the CTA asks her to message you a keyword or fill out a quick instant form, and that is how she gets the training link. Lower friction and faster to film. Ideal when you are just starting out, or when you want to build rapport with leads through a quick back-and-forth before they ever reach the training.
-- **Standard, direct to webinar.** Content first: right after the hook you go straight into the demonstration (the affiliate networks, the Ads Manager, how it runs), then relatability, then the CTA. No host edification, because you are sending her straight to the training. Shorter than the long-form version.
+- **Standard, direct to webinar.** Content first: right after the hook you go straight into the demonstration (the affiliate networks, the Ads Manager, how it runs), then relatability, then the CTA. No host edification, because you are sending her straight to the training. Shorter than the long-form version. Good when you would rather let a quick demo do the convincing than a long personal story.
 
 Same 6 parts every time. Only the length, the order, and the final destination move. Where you actually pick one and commit before you write is [The Ads Strategy](strategy.md), step 0.
 
@@ -96,5 +96,5 @@ These numbers are for the long-form path. The short-form and direct-to-webinar t
 
 ## Next
 
-- Write the part you test first: [Hooks](hooks.md).
-- Then build the part that stays put: [Writing the body](writing-the-body.md).
+- Build the part that never changes first: [Writing the body](writing-the-body.md).
+- Then write the part you test: [Hooks](hooks.md).

@@ -10,11 +10,11 @@ This page is how to *act* on the numbers. For what each number means, its floor,
 
 This is the part you control directly when you make ads.
 
-| Metric | Minimum | What it means when it lags |
+| Metric | Floor | What it means when it lags |
 |---|---|---|
-| **CTR (All)** | **6%** | Below 3 percent, the creative is not engaging enough. Rework the hook or the visuals. |
-| **CTR (Link)** | **3%** | Below 1 percent, the hook or value prop is not earning the click. The hook is the lever. |
-| **Landing Page Conversion** | **20%** | Below 20 percent, the page messaging, layout, or offer needs work. A great ad leaks here. |
+| **CTR (All)** | **>6%** | Under 6% the creative is soft; under 3% it is not engaging at all. Rework the hook or the visuals. |
+| **CTR (Link)** | **>3%** | Under 3% the hook or value prop is not earning the click; under 1% it is badly off. The hook is the lever. |
+| **Landing Page Conversion** | **>20%** | Under 20% the page messaging, layout, or offer needs work. A great ad leaks here. |
 
 This is the whole reason you batch [15 to 20 hooks](hooks.md) against one body. You are hunting for the hooks that clear those CTR bars. A low link CTR points straight at the hook, which is the one thing you built to be swappable.
 

@@ -10,25 +10,27 @@ The body stays locked. The audience stays the same. The placement stays the same
 
 This is also why the [editing setup](editing-capcut.md) builds each variation by dropping a different hook onto the same master body. Same body, different first three seconds, nothing else.
 
-## What you are actually testing for
+## What you are testing for, and how a winner gets picked
 
-The hook has one job: earn the next three seconds and the click. So the hook test is read mostly through the click-through numbers at the top of the funnel. The two bars a hook has to clear:
+A hook has two jobs, in order: stop the scroll, then earn the click. So you do not crown a winner on one number. You read it as a short funnel, because the hook is the only thing changing between your ads and you want the numbers that isolate it. In order:
 
-- **CTR (All), minimum 6 percent.** How engaging the creative is overall.
-- **CTR (Link), minimum 3 percent.** How well the hook and value prop drive the actual click to the webclass page.
+- **Hook Rate, target above 25 percent.** Three-second plays divided by impressions. This is the primary read. It measures the one thing the hook controls: did the first three seconds stop the scroll. If a hook is low here, nothing downstream matters.
+- **CTR (Link), target above 3 percent.** The decider. Attention only pays if it turns into a click to the webclass. When two hooks both clear Hook Rate, the higher link CTR wins, because the click is the step that feeds the funnel.
+- **Hold Rate (above 15 percent) and CPC-Link (under $1.50).** Supporting context. Hold Rate tells you the hook pulled in the right person and not just a cheap stop. CPC tells you it is doing that efficiently.
+- **CTR (All), above 6 percent.** A general gut-check on overall engagement, not the hook decider.
 
-A hook that clears both earned its spot. A hook with a low link CTR is telling you the first few seconds did not pull her in. That points straight at the lever you built to pull: the hook. Swap it, do not rewrite the whole ad.
+Why this order: the hook is the lever you built to be swappable, so you judge it on the number that most isolates it (Hook Rate), then confirm with the action that pays (the click). A hook that stops the scroll but does not earn the click grabbed the wrong attention. Swap the hook, do not rewrite the ad.
 
-Full numbers and what each one means live in [Metrics](metrics.md). For the hook test, those two CTR bars are the scoreboard.
+You log all of this in the [hook test tracker](swipe-files/hook-test-tracker.md), which calculates the rates for you. Full definitions of every number live in [Understanding your KPIs](understanding-kpis.md).
 
 ## How a hook test runs
 
 The shape of it, start to finish:
 
-1. **Film the batch.** One body, 10 to 20 hooks you actually believe in, all against the same setup.
-2. **Build the variations.** Each hook on the front of the same master body. Now you have 10 to 20 ads that differ by three seconds.
+1. **Film the batch.** One body, 15 to 20 hooks you actually believe in, all against the same setup.
+2. **Build the variations.** Each hook on the front of the same master body. Now you have 15 to 20 ads that differ by three seconds.
 3. **Put them up together** and let them run long enough to gather real data. Do not call it after a handful of clicks. Small numbers lie.
-4. **Read the CTRs.** Sort by link CTR. The hooks clearing 3 percent are your live set. The ones well under are done.
+4. **Read the scoreboard.** Sort by Hook Rate to see what stopped the scroll, then by link CTR to see what earned the click. The hooks clearing both are your live set. The ones well under are done.
 5. **Cut and keep.** Kill the losers without sentiment. The winning hooks move forward and become the base you test the next batch against.
 6. **Iterate.** Write fresh hooks on new angles, test them against the current champion. The bar keeps rising.
 

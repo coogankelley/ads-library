@@ -54,5 +54,5 @@ You are not just collecting these. Each box has a job in the script:
 
 ## Next
 
-- Now use it to write: [Ad anatomy](ad-anatomy.md), then [Hooks](hooks.md) and [Writing the body](writing-the-body.md).
+- Now use it to write: [Ad anatomy](ad-anatomy.md), then [Writing the body](writing-the-body.md).
 - Turn the pains and desires into scroll-stoppers: [Hooks](hooks.md).

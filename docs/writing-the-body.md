@@ -4,14 +4,15 @@ The body is the engine of the ad. It is everything from Relatability through CTA
 
 This page is how to write it. Use the [body script template](swipe-files/body-script.md) to actually draft it.
 
-## Pick your format first
+## Know your ad type first
 
-There are two shapes the body can take, and which one you write depends on how the ad asks her to respond:
+The body you write depends on the ad type you picked back in [Ad anatomy](ad-anatomy.md). The three shapes, in short:
 
-- **Short-form (send message or instant form).** A tight version: hook, a quick relatability beat, one CTA to message you or fill a form, a short twist, a stronger CTA. Good when the next step is a conversation or a form, not a page. Runs well at 4:5.
-- **Long-form edification (direct to webclass).** The full version this page walks through, where you tell the story, teach the mechanism, and point her to the host's free training. Two short edification beats name the host and why her hour is worth it. Written so those beats could be lifted out later if you ever host your own training. Runs well at 1:1.
+- **Long-form edification.** The full version: tell the story, teach the mechanism, edify the host if she is someone other than you, point her to the free training. The longest body, with the most room per beat.
+- **Short-form, direct response.** A tight body: hook, a quick relatability beat, one CTA to message you or fill a form, a short twist, a stronger CTA. The content beat is light or skipped.
+- **Standard, direct to webinar.** Content first, right after the hook, then relatability, then the CTA. No host edification.
 
-The Next Wave runs the long-form version, so that is the model below. The beats are the same either way. Long-form just gives each one more room.
+This page walks the **long-form** version as the model, because it has every beat at full size. The beats themselves are the same across all three. The shorter types just compress a few or drop one. (Full structures for each are in [Ad anatomy](ad-anatomy.md).)
 
 ## Pair every line with something to show
 
@@ -80,4 +81,5 @@ Run the checklist at the bottom of the [body script template](swipe-files/body-s
 
 ## Next
 
-- The body is written. Take the whole script, body and hooks together, to camera: [Recording](recording.md).
+- The body is written. Now write the part you test: [Hooks](hooks.md).
+- Then take the whole script to camera: [Recording](recording.md).

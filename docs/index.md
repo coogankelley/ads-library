@@ -23,11 +23,11 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - [Finding your ICA](finding-your-ica.md). The 7-dimension exercise that turns a fuzzy audience into one specific person.
 - [The conversion quadrant](conversion-quadrant.md). Her pains, fears, desires, and avoids on one page you write against.
 
-**2. Building your script.** Write the ad: the hooks you test, the body that never changes, and the words around the video.
+**2. Building your script.** Write the ad: the body that never changes, the hooks you test, and the words around the video.
 
 - [Ad anatomy](ad-anatomy.md). The 6 parts every ad has, in order.
-- [Hooks](hooks.md). The first 3 seconds. One body, many hooks, let the data pick.
 - [Writing the body](writing-the-body.md). The part of the script that does not change, plus a real worked example.
+- [Hooks](hooks.md). The first 3 seconds. One body, many hooks, let the data pick.
 
 **3. Recording.** Film it and cut it into finished ads.
 

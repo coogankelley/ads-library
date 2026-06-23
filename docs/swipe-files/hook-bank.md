@@ -68,7 +68,7 @@ Once you have 15 to 20, read every one out loud. For each, ask:
 - Would this stop her scroll specifically, or any scroll.
 - Does it pass every rule above.
 
-Cut anything that fails any of those. You want to end up filming 10 to 20 you actually believe in.
+Cut anything that fails any of those. You want to end up filming 15 to 20 you actually believe in.
 
 ## Hand it off
 

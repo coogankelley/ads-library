@@ -74,7 +74,7 @@ What none of them do: promise a dollar amount, call out her job in the second pe
 1. Open the [hook bank template](swipe-files/hook-bank.md) and your audience notes.
 2. Write 15 to 20. Keep the weak ones in the list while you draft.
 3. Read every one out loud. For each: does it sound like me or like a generic ad. Would it stop her scroll specifically, or any scroll. Does it pass every rule above.
-4. Cut anything that fails. End up filming 10 to 20 you actually believe in.
+4. Cut anything that fails. End up filming 15 to 20 you actually believe in.
 5. Get a second pair of eyes on the list before you film. Voice check, compliance check, strength check.
 
 !!! tip "Let Claude do the first pass"
@@ -82,5 +82,5 @@ What none of them do: promise a dollar amount, call out her job in the second pe
 
 ## Next
 
-- Hooks written and checked? Now build the part that stays put: [Writing the body](writing-the-body.md).
+- Hooks written and checked? Take the body and all your hooks to camera: [Recording](recording.md).
 - Want to understand how the winners get picked later: [Testing](testing.md).
