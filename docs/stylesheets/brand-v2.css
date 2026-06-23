@@ -1,11 +1,11 @@
 /* The Ads Library brand styling
-   Teal page, navy structure, Georgia type. Left menu reads as a clear panel. */
+   Teal frame, white reading card, navy structure, Georgia type. */
 
 :root {
-  /* Brand palette */
-  --tal-teal-bg:    #e6f4f1;  /* light teal reading area (matches KPI tracker band) */
-  --tal-teal-panel: #cfe6e0;  /* deeper teal for the left menu panel */
-  --tal-teal-soft:  #d6ece7;  /* table stripes / surfaces */
+  --tal-page:       #d9eee9;  /* teal page (the frame around the white card) */
+  --tal-panel:      #cbe5de;  /* deeper teal for the left menu panel */
+  --tal-card:       #ffffff;  /* white reading surface */
+  --tal-soft:       #eef7f5;  /* table stripes */
   --tal-navy:       #1a2a4f;  /* navy: header, headings, accents */
   --tal-navy-dark:  #111d38;
   --tal-teal-pop:   #0e7c86;  /* teal pop for hovers / active marker */
@@ -17,7 +17,7 @@
 /* Material sets scheme vars on the color-scheme element, which beats :root.
    Map onto the same selector so the teal actually paints the page. */
 [data-md-color-scheme="default"] {
-  --md-default-bg-color:        var(--tal-teal-bg);
+  --md-default-bg-color:        var(--tal-page);
   --md-primary-fg-color:        var(--tal-navy);
   --md-primary-fg-color--light: #2c3f6b;
   --md-primary-fg-color--dark:  var(--tal-navy-dark);
@@ -30,8 +30,7 @@
 body,
 input,
 .md-typeset,
-.md-nav,
-.md-tabs__link {
+.md-nav {
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -41,11 +40,9 @@ input,
 }
 
 /* ---------- Left navigation: a clear menu panel ---------- */
-.md-sidebar--primary {
-  background-color: var(--tal-teal-panel);
-}
 @media screen and (min-width: 76.25em) {
   .md-sidebar--primary {
+    background-color: var(--tal-panel);
     border-right: 1px solid rgba(26, 42, 79, 0.22);
   }
 }
@@ -56,12 +53,12 @@ input,
   color: var(--tal-navy);
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
   font-size: 0.66rem;
-  opacity: 0.9;
+  opacity: 0.85;
 }
 
-/* Page links in the menu: navy and readable */
+/* Page links in the menu */
 .md-nav__link {
   color: var(--tal-navy);
 }
@@ -76,24 +73,25 @@ input,
 .md-nav__link[aria-current="page"] {
   color: var(--tal-navy) !important;
   font-weight: 700;
-  background-color: var(--tal-teal-bg);
+  background-color: rgba(255, 255, 255, 0.6);
   border-left: 4px solid var(--tal-teal-pop);
   border-radius: 0 0.2rem 0.2rem 0;
   padding-left: 0.5rem;
 }
 
 /* ---------- Content: a clean white reading card on the teal page ---------- */
-.md-content {
-  background-color: #ffffff;
-  border: 1px solid rgba(26, 42, 79, 0.10);
-  border-radius: 0.4rem;
-  box-shadow: 0 3px 14px rgba(17, 29, 56, 0.12);
-  margin: 1.2rem 0 2.4rem;
-}
-@media screen and (max-width: 76.1875em) {
+@media screen and (min-width: 60em) {
   .md-content {
-    margin: 0.6rem;
+    background-color: var(--tal-card);
+    border: 1px solid rgba(26, 42, 79, 0.10);
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 18px rgba(17, 29, 56, 0.13);
+    margin: 1.5rem 1.2rem 2.6rem;
   }
+}
+.md-content__inner {
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
 }
 
 /* ---------- Headings ---------- */
@@ -104,18 +102,15 @@ input,
   color: var(--tal-navy);
   font-family: Georgia, "Times New Roman", serif;
 }
-
-/* Page title: teal underline accent */
 .md-typeset h1 {
+  font-weight: 700;
   border-bottom: 3px solid var(--tal-teal-pop);
-  padding-bottom: 0.25rem;
+  padding-bottom: 0.3rem;
 }
-
-/* Section headings: thin divider for structure */
 .md-typeset h2 {
-  border-bottom: 1px solid rgba(26, 42, 79, 0.18);
+  border-bottom: 1px solid rgba(26, 42, 79, 0.15);
   padding-bottom: 0.2rem;
-  margin-top: 2rem;
+  margin-top: 2.2rem;
 }
 
 /* ---------- Links in content ---------- */
@@ -130,15 +125,15 @@ input,
 }
 
 /* ---------- Tables ---------- */
+.md-typeset table:not([class]) {
+  border: 1px solid rgba(26, 42, 79, 0.18);
+}
 .md-typeset table:not([class]) th {
   background-color: var(--tal-navy);
   color: #ffffff;
 }
 .md-typeset table:not([class]) tr:nth-child(even) {
-  background-color: var(--tal-teal-soft);
-}
-.md-typeset table:not([class]) {
-  border: 1px solid rgba(26, 42, 79, 0.18);
+  background-color: var(--tal-soft);
 }
 
 /* ---------- Blockquotes / code ---------- */

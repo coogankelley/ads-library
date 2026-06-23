@@ -1,5 +1,16 @@
 # Resume — Next Wave Ads Library build
 
+## Styling + structure (2026-06-23, post-launch tweaks)
+- Brand: teal frame + navy + Georgia. Page bg #e6f4f1 (matches KPI tracker band), deeper-teal
+  left menu panel #cfe6e0, WHITE content card, navy header. Vars set on
+  `[data-md-color-scheme="default"]` (NOT :root, which Material's scheme block beats).
+  nav features: sections + expand + toc.integrate so all links live in the left panel.
+- Nav order: Start here, Foundations, Compliance, then stages 1-5. Headlines moved to stage 4
+  (Posting). KPI trackers page added under Templates (`docs/swipe-files/kpi-trackers.md`).
+- KPI tracker sheets shared link-sharing=reader; page uses `/copy` links so partners copy their
+  own. NOTE: these are the blank template copies — Kelley keeps real data in a separate sheet.
+- "Kelley" name removed from all library content (reframed to "The Next Wave" / "what works").
+
 ## LIVE as of 2026-06-23
 - Site: https://coogankelley.github.io/ads-library/ (public repo `coogankelley/ads-library`,
   free plan so public; `noindex` on every page via `overrides/main.html` keeps it un-Googleable).
