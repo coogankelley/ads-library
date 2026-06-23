@@ -46,9 +46,9 @@ What you never do is put a dollar figure or an income promise anywhere near it. 
 
 ## The format we run
 
-There are a few ways to structure a video ad. The one we use is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
+There are a few ways to structure a video ad, and you pick one before you write (that is step 0 in [The strategy](strategy.md)). The one we built for The Next Wave, and the one most examples in this library use, is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
 
-You do not need to memorize the other formats. You need to know ours cold. The full breakdown is in [Ad anatomy](ad-anatomy.md).
+It is one option, not the only one. The full breakdown of the types, and the 6 parts they all share, is in [Ad anatomy](ad-anatomy.md).
 
 ## Next
 

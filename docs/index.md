@@ -10,6 +10,10 @@ That cuts both ways. A sharp, specific ad gets shown to the right people for ver
 
 So the edge is no longer a hidden audience setting. It is knowing your one person cold, writing creative that speaks straight to her, staying inside the rules, and testing enough hooks to find the few that land. That is exactly what this library walks you through, in order.
 
+## The plan, before you build anything
+
+We do not just make ads and hope. We run a deliberate test program: one variable at a time, built off one script. Hooks first, across a few rounds, until we have a handful that reliably stop the scroll. Then we test the body, still one thing at a time. Read [The strategy](strategy.md) before you write a word, so you know what you are working toward.
+
 ## The path, start to finish
 
 Building an ad runs in five stages, in this order. If you are new, go straight down the list. If you are already running ads and need one thing, search it and get out.

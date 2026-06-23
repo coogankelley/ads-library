@@ -8,7 +8,7 @@ Every ad we run has the same 6 parts in roughly the same order. Once you can see
 
 **2. Relatability.** A short beat where you tell her you were once exactly where she is. The specific struggle, how long it lasted, what it cost you, the moment it shifted. The goal is one feeling: "she gets me, she was me." This is your real story, first person.
 
-**3. Content.** The actual teaching. The vehicle, how it works, why it is different. This is where you demonstrate. Show the funnel, the dashboard, the simple version of how it runs. This part has to deliver real value, not vague hype, or the rest does not land.
+**3. Content.** The actual teaching. The vehicle, how it works, why it is different. This is where you demonstrate. Show the funnel, the dashboard, the simple version of how it runs. This part has to deliver real value, not vague hype, or the rest does not land. (In some formats this comes right after the hook, before relatability. More on that below.)
 
 **4. CTA 1 (primary).** The first clear next step. Calm, inviting, logical. "When you click below, you get the free training that walks through exactly how this works." Demonstrate where the button is, do not just say it.
 
@@ -25,9 +25,19 @@ This is the most important distinction in how we build ads, so get it now:
 
 Why we do it this way: if you change five things every time, you never learn what worked. By holding the body steady and only swapping the hook, the data can actually tell you which first-3-seconds earned their spot. Whichever hooks move people, you keep. The rest you cut. That is what "test one variable at a time" means in practice. (See [Testing](testing.md).)
 
-## In our format: where the host beats go
+## The format is one of several
 
-We run a long-form, story-led ad that drives to the webclass. On top of the 6 parts, our version has two short edification beats where you point to the webclass host and why she is worth an hour. They slot in like this:
+The 6 parts are the constant. What changes is how long the ad runs, the order the parts come in, and where you send her at the end. Long-form edification (what we built for The Next Wave) is one way to do it, not the only way. You pick the type first, then build the 6 parts to fit it. Three we run from:
+
+- **Long-form edification.** You on camera, telling your story, edifying the webclass host, driving to her free training. The longer format, written so the host beats can be lifted out later if you ever run your own webinar. This is the one we built, and the one the rest of this library uses for its worked examples.
+- **Short-form, direct response.** A much shorter video. Instead of a link straight to the webclass, the CTA asks her to message you a keyword or fill out a quick instant form, and that is how she gets the training link. Lower friction, faster to film, good as a first touch.
+- **Standard, direct to webinar.** Content first: right after the hook you go straight into the demonstration (the affiliate networks, the Ads Manager, how it runs), then relatability, then the CTA. No host edification, because you are sending her straight to the training. Shorter than the long-form version.
+
+Same 6 parts every time. Only the length, the order, and the final destination move. Where you actually pick one and commit before you write is [The strategy](strategy.md), step 0.
+
+## Long-form edification, up close
+
+The long-form path is the one we built, so here it is in full. On top of the 6 parts, this version has two short edification beats where you point to the webclass host and why she is worth an hour. They slot in like this:
 
 1. Hook
 2. Relatability
@@ -52,6 +62,8 @@ The parts are not islands. Each one sets up the next:
 When an ad feels off, it is almost always one handoff that is broken. Diagnose by part.
 
 ## Length
+
+These numbers are for the long-form path. The short-form and direct-to-webinar types run shorter.
 
 - Body voiceover: about 3 minutes 30 seconds.
 - Total with a hook on the front: 5 minutes hard ceiling.
