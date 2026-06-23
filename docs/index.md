@@ -2,6 +2,14 @@
 
 This is the whole system we use to run Meta ads, in one place. Not a course you have to finish in order. A reference you come back to. The worked examples throughout come from The Next Wave, but the playbook is the same for everyone on the team. Use the search bar up top or the menu on the left to jump straight to what you need.
 
+## Why this matters now
+
+Meta has changed how ads get delivered, and it changes what wins. The targeting you set by hand matters less every month, and the creative matters more. The platform's AI now decides who sees your ad mostly off the ad itself: the hook, the story, the words on screen. It reads the actual meaning of what you say, not just keywords, and it hands your ad to the people most likely to act on it.
+
+That cuts both ways. A sharp, specific ad gets shown to the right people for very little spend. A vague one gets buried. And in this niche, one that crosses the line on income claims or personal call-outs can cost you the whole ad account.
+
+So the edge is no longer a hidden audience setting. It is knowing your one person cold, writing creative that speaks straight to her, staying inside the rules, and testing enough hooks to find the few that land. That is exactly what this library walks you through, in order.
+
 ## The path, start to finish
 
 Building an ad runs in five stages, in this order. If you are new, go straight down the list. If you are already running ads and need one thing, search it and get out.
@@ -53,4 +61,5 @@ The fill-in-the-blank pieces, when you need them:
 
 - [Body script template](swipe-files/body-script.md)
 - [Hook bank template](swipe-files/hook-bank.md)
+- [Hook test tracker](swipe-files/hook-test-tracker.md). Copy your own, for picking winning hooks.
 - [KPI trackers](swipe-files/kpi-trackers.md). Copy your own from the two shared tracking sheets.

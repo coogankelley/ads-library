@@ -46,6 +46,7 @@ nav:
   - Templates:
       - Body script template: swipe-files/body-script.md
       - Hook bank template: swipe-files/hook-bank.md
+      - Hook test tracker: swipe-files/hook-test-tracker.md
       - KPI trackers: swipe-files/kpi-trackers.md
 
 markdown_extensions:

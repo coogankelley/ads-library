@@ -19,7 +19,7 @@ Fill in the input columns and let the sheet handle everything else.
 
 ## Pick your tracker
 
-There are two versions in your "ADS REFERENCES" folder. Grab the one that matches your campaign, then make your own copy in your Drive before you touch it. Never type over the master.
+There are two versions, both on the [KPI trackers](swipe-files/kpi-trackers.md) page in Templates. Grab the one that matches your campaign and make your own copy before you touch it. The shared version is view-only on purpose, so you never type over the master.
 
 | Tracker | Use it for | What it watches |
 |---|---|---|

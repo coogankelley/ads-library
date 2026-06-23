@@ -47,7 +47,7 @@ These are angles, not scripts. Your hook is your own line, in your own voice, on
 
 ## The pattern library
 
-There is a deeper reference behind those angles: a library of 24 hook patterns (Open Loop, Contrarian, Future Pace, Objection Flip, Confession, Sticky Analogy, and so on), each written across the 5 awareness levels. That is the "500 universal hooks" doc in your "ADS REFERENCES" folder. The way to use it: pick the **awareness level first** (for this avatar, Unaware and Problem-Aware only), then pick a **pattern**, then write the line in your own voice.
+There is a deeper reference behind those angles: a library of 24 hook patterns (Open Loop, Contrarian, Future Pace, Objection Flip, Confession, Sticky Analogy, and so on), each written across the 5 awareness levels. It is the 500-hook pattern library the framework is built on. The way to use it: pick the **awareness level first** (for this avatar, Unaware and Problem-Aware only), then pick a **pattern**, then write the line in your own voice.
 
 Not every pattern is safe for this niche. Keep to the ones that work without numbers, receipts, or fake urgency:
 
