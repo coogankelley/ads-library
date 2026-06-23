@@ -1,5 +1,15 @@
 # Resume — Next Wave Ads Library build
 
+## Open thread for next session (Kelley reading through 2026-06-23 eve)
+- Kelley is reading every page and tracking edits; she'll report a batch back. Wait for her list.
+- Latest design: blue-teal palette (page #e4f1f8, panel #d4e7f2, accent #1273a0), white content
+  card, navy header, Georgia. Left nav decluttered (removed toc.integrate). Templates now LAST
+  (both nav section and on the homepage body).
+- STILL PENDING (the real last milestone): the GHL gate — opt-in at kchealthwellness.com/ads-library
+  that tags the contact + redirects to https://coogankelley.github.io/ads-library/.
+- Stylesheet cache note: reusing a filename made Safari serve stale CSS; fixed by renaming to
+  brand-v2.css. If a CSS change ever "doesn't show," rename the file (or hard-refresh).
+
 ## Styling + structure (2026-06-23, post-launch tweaks)
 - Brand: teal frame + navy + Georgia. Page bg #e6f4f1 (matches KPI tracker band), deeper-teal
   left menu panel #cfe6e0, WHITE content card, navy header. Vars set on
