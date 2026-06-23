@@ -16,8 +16,6 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - [Ad anatomy](ad-anatomy.md). The 6 parts every ad has, in order.
 - [Writing the body](writing-the-body.md). The part of the script that does not change, plus a real worked example.
 - [Hooks](hooks.md). The first 3 seconds. One body, many hooks, let the data pick.
-- [Headlines and primary text](headlines-and-text.md). The caption above the video and the line beneath it.
-- [Compliance and guardrails](compliance.md). How to write hard without getting your ad account shut down. Read this before you write, not after.
 
 **3. Recording.** Film it and cut it into finished ads.
 
@@ -28,6 +26,7 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 **4. Posting in Meta.** Get the campaign live, with Claude doing the building.
 
 - [Posting in Meta with Claude](posting-meta.md). Hand Claude the pieces, it builds the campaign paused, you publish.
+- [Headlines and primary text](headlines-and-text.md). The caption above the video and the headline beneath it.
 
 **5. Tracking data.** Read the numbers and decide what to keep, kill, or scale.
 
@@ -44,6 +43,7 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 
 - [Body script template](swipe-files/body-script.md)
 - [Hook bank template](swipe-files/hook-bank.md)
+- [KPI trackers](swipe-files/kpi-trackers.md). Copy your own from the two shared tracking sheets.
 
 ## A few ground rules
 

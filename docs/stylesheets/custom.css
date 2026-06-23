@@ -1,22 +1,21 @@
 /* The Ads Library brand styling
-   Light teal background, navy accents, Georgia type. */
+   Teal page, navy structure, Georgia type. Left menu reads as a clear panel. */
 
 :root {
   /* Brand palette */
-  --tal-teal-bg:   #e6f4f1;  /* light teal page background (matches KPI tracker band) */
-  --tal-teal-soft: #d6ece7;  /* slightly deeper teal for surfaces */
-  --tal-navy:      #1a2a4f;  /* navy: header, headings, accents */
-  --tal-navy-dark: #111d38;
-  --tal-teal-pop:  #0e7c86;  /* teal pop for hovers/interactive */
-  --tal-ink:       #16233f;  /* body text */
+  --tal-teal-bg:    #e6f4f1;  /* light teal reading area (matches KPI tracker band) */
+  --tal-teal-panel: #cfe6e0;  /* deeper teal for the left menu panel */
+  --tal-teal-soft:  #d6ece7;  /* table stripes / surfaces */
+  --tal-navy:       #1a2a4f;  /* navy: header, headings, accents */
+  --tal-navy-dark:  #111d38;
+  --tal-teal-pop:   #0e7c86;  /* teal pop for hovers / active marker */
+  --tal-ink:        #14233f;  /* body text */
 
-  /* Georgia for body text */
   --md-text-font: "Georgia";
 }
 
-/* Material assigns the scheme variables on the color-scheme element, which
-   beats a :root override. Map onto the same selector so the teal actually
-   paints the page (otherwise the background stays white). */
+/* Material sets scheme vars on the color-scheme element, which beats :root.
+   Map onto the same selector so the teal actually paints the page. */
 [data-md-color-scheme="default"] {
   --md-default-bg-color:        var(--tal-teal-bg);
   --md-primary-fg-color:        var(--tal-navy);
@@ -27,7 +26,7 @@
   --md-typeset-a-color:         var(--tal-navy);
 }
 
-/* Georgia everywhere for prose; leave code in monospace */
+/* Georgia for prose; leave code in monospace */
 body,
 input,
 .md-typeset,
@@ -36,7 +35,68 @@ input,
   font-family: Georgia, "Times New Roman", serif;
 }
 
-/* Headings in navy */
+/* ---------- Header: navy with a defined edge ---------- */
+.md-header {
+  box-shadow: 0 2px 8px rgba(17, 29, 56, 0.28);
+}
+
+/* ---------- Left navigation: a clear menu panel ---------- */
+.md-sidebar--primary {
+  background-color: var(--tal-teal-panel);
+}
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    border-right: 1px solid rgba(26, 42, 79, 0.22);
+  }
+}
+
+/* Section group labels: small navy caps, clearly headers not links */
+.md-nav__item--section > .md-nav__link,
+.md-nav--primary > .md-nav__title {
+  color: var(--tal-navy);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.66rem;
+  opacity: 0.9;
+}
+
+/* Page links in the menu: navy and readable */
+.md-nav__link {
+  color: var(--tal-navy);
+}
+.md-nav__link:hover {
+  color: var(--tal-teal-pop);
+}
+
+/* Current page: highlighted with a teal bar so you know where you are */
+.md-nav__link--active,
+.md-nav__link--active:hover,
+.md-nav__link--active:focus,
+.md-nav__link[aria-current="page"] {
+  color: var(--tal-navy) !important;
+  font-weight: 700;
+  background-color: var(--tal-teal-bg);
+  border-left: 4px solid var(--tal-teal-pop);
+  border-radius: 0 0.2rem 0.2rem 0;
+  padding-left: 0.5rem;
+}
+
+/* ---------- Content: a clean white reading card on the teal page ---------- */
+.md-content {
+  background-color: #ffffff;
+  border: 1px solid rgba(26, 42, 79, 0.10);
+  border-radius: 0.4rem;
+  box-shadow: 0 3px 14px rgba(17, 29, 56, 0.12);
+  margin: 1.2rem 0 2.4rem;
+}
+@media screen and (max-width: 76.1875em) {
+  .md-content {
+    margin: 0.6rem;
+  }
+}
+
+/* ---------- Headings ---------- */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -45,24 +105,31 @@ input,
   font-family: Georgia, "Times New Roman", serif;
 }
 
-/* Page title gets a teal underline accent */
+/* Page title: teal underline accent */
 .md-typeset h1 {
   border-bottom: 3px solid var(--tal-teal-pop);
   padding-bottom: 0.25rem;
 }
 
-/* Links: navy with a soft teal underline, teal on hover */
+/* Section headings: thin divider for structure */
+.md-typeset h2 {
+  border-bottom: 1px solid rgba(26, 42, 79, 0.18);
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+
+/* ---------- Links in content ---------- */
 .md-typeset a {
   color: var(--tal-navy);
   text-decoration: underline;
-  text-decoration-color: rgba(14, 124, 134, 0.45);
+  text-decoration-color: rgba(14, 124, 134, 0.5);
   text-underline-offset: 2px;
 }
 .md-typeset a:hover {
   color: var(--tal-teal-pop);
 }
 
-/* Table header rows in navy for a bit of color */
+/* ---------- Tables ---------- */
 .md-typeset table:not([class]) th {
   background-color: var(--tal-navy);
   color: #ffffff;
@@ -70,13 +137,14 @@ input,
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--tal-teal-soft);
 }
+.md-typeset table:not([class]) {
+  border: 1px solid rgba(26, 42, 79, 0.18);
+}
 
-/* Admonition/blockquote accent bar in teal */
+/* ---------- Blockquotes / code ---------- */
 .md-typeset blockquote {
   border-left: 0.2rem solid var(--tal-teal-pop);
 }
-
-/* Keep code blocks readable on the teal page */
 .md-typeset pre > code,
 .md-typeset code {
   background-color: #f1f7f6;

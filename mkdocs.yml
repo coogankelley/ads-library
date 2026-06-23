@@ -15,6 +15,8 @@ theme:
     - navigation.tracking
     - navigation.top
     - navigation.sections
+    - navigation.expand
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -23,6 +25,7 @@ theme:
 nav:
   - Start here: index.md
   - Foundations: foundations.md
+  - Compliance and guardrails: compliance.md
   - 1 · Discovering your ICA:
       - Finding your ICA: finding-your-ica.md
       - The conversion quadrant: conversion-quadrant.md
@@ -30,14 +33,13 @@ nav:
       - Ad anatomy: ad-anatomy.md
       - Writing the body: writing-the-body.md
       - Hooks: hooks.md
-      - Headlines and primary text: headlines-and-text.md
-      - Compliance and guardrails: compliance.md
   - 3 · Recording:
       - Recording: recording.md
       - Editing in CapCut: editing-capcut.md
       - Creative and b-roll: creative-broll.md
   - 4 · Posting in Meta:
       - Posting in Meta with Claude: posting-meta.md
+      - Headlines and primary text: headlines-and-text.md
   - 5 · Tracking data:
       - Testing: testing.md
       - Understanding your KPIs: understanding-kpis.md
@@ -45,6 +47,7 @@ nav:
   - Templates:
       - Body script template: swipe-files/body-script.md
       - Hook bank template: swipe-files/hook-bank.md
+      - KPI trackers: swipe-files/kpi-trackers.md
 
 markdown_extensions:
   - admonition
