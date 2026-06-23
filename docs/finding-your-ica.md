@@ -2,7 +2,7 @@
 
 This is the first real work, before you write a single ad. Your Ideal Client Avatar is one specific woman, so clear you could pick her out of a coffee shop and know what was on her mind when she walked in. Every ad, email, and webclass invite gets written against this. Get it sharp and the rest of the library gets easy. Leave it fuzzy and nothing downstream works.
 
-Each section below tells you what to do, then shows you how Kelley did it for The Next Wave. Your answers will be different. The exercises stay the same.
+Each section below tells you what to do, then shows the worked example from The Next Wave. Your answers will be different. The exercises stay the same.
 
 ## Why this comes first
 
@@ -32,7 +32,7 @@ Open a fresh Google Doc. Title it "[Your Project Name] ICA." This is where you b
 
 **Stop when** the emotional paragraph makes you flinch a little because it is so accurate.
 
-**How Kelley did it:** She is 30 to 40. Single, or partnered with no kids. Healthcare professional or corporate employee earning $85K to $150K+. Not broke, not new to hard work. She is the woman everyone else relies on. Educated, capable, dependable, respected. On the outside she is winning. On the inside she is exhausted, disconnected from herself, and quietly wondering when her life is actually going to start.
+**How The Next Wave did it:** She is 30 to 40. Single, or partnered with no kids. Healthcare professional or corporate employee earning $85K to $150K+. Not broke, not new to hard work. She is the woman everyone else relies on. Educated, capable, dependable, respected. On the outside she is winning. On the inside she is exhausted, disconnected from herself, and quietly wondering when her life is actually going to start.
 
 The income bracket alone rules out the broke-beginner audience. "The woman everyone else relies on" tells you exactly who she is at work, at home, and in her own head.
 
@@ -49,7 +49,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 **Stop when** the details would make her think "how do you know that about me?"
 
-**How Kelley did it:** 12-hour hospital shifts or long 9-to-5+ weeks. Her schedule runs her, not the other way around. Almost no time for herself, and when she has it, she doom-scrolls to escape, because her reality does not match the life she wants. Her calendar is built around recovery from work, not living. She measures her year in PTO, requested-off forms, and the next vacation she is counting down to.
+**How The Next Wave did it:** 12-hour hospital shifts or long 9-to-5+ weeks. Her schedule runs her, not the other way around. Almost no time for herself, and when she has it, she doom-scrolls to escape, because her reality does not match the life she wants. Her calendar is built around recovery from work, not living. She measures her year in PTO, requested-off forms, and the next vacation she is counting down to.
 
 "She measures her year in PTO" is what turns this from generic to surgical. That line could be a hook on its own.
 
@@ -65,7 +65,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 **Stop when** reading the 12-month scene back makes you feel something. If it reads like a vision board (travel, freedom, abundance), rewrite. The real desires are quieter and more specific than the cliché.
 
-**How Kelley did it, surface wants:** A travel-based lifestyle she can run from anywhere. Time freedom. A calendar that belongs to her, no alarm, no clock, no asking permission. An income that scales without trading more hours. To be the woman who finally chose herself.
+**How The Next Wave did it, surface wants:** A travel-based lifestyle she can run from anywhere. Time freedom. A calendar that belongs to her, no alarm, no clock, no asking permission. An income that scales without trading more hours. To be the woman who finally chose herself.
 
 **Her 12-month win:** Step one, replacing her income. Step two, out-earning her corporate paycheck. The real win: waking up without an alarm, booking a flight on a Tuesday without checking her bank account, providing for herself and others without the constant math, building a life that fits her. Not flashy. Aligned and free.
 
@@ -83,7 +83,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 **Stop when** the "already tried" list contains things you have tried yourself, or heard friends complain about.
 
-**How Kelley did it, the 2am thought:** "I make good money but I have no life." She wants to scale but has no idea where to start. Every side hustle she has considered just looks like more overtime, more hours gone, no real freedom. She is smart, capable, and good at her job, and that is exactly what makes the trap feel airtight.
+**How The Next Wave did it, the 2am thought:** "I make good money but I have no life." She wants to scale but has no idea where to start. Every side hustle she has considered just looks like more overtime, more hours gone, no real freedom. She is smart, capable, and good at her job, and that is exactly what makes the trap feel airtight.
 
 **What she's already tried:** Self-help books, podcasts, journaling (shift her mood, not her life). Promotions and job changes (the next role did not feel different). Therapy, retreats, wellness escapes (amazing in the moment, faded by Monday). Side hustles that turned into a second job she could not sustain.
 
@@ -103,7 +103,7 @@ That one sentence is the angle the whole funnel is built around. Get yours that 
 
 **Stop when** the real fear reads honest, not dramatic. If it sounds like a movie trailer, scale it back.
 
-**How Kelley did it:** Surface fear, "I have no time." Real fear: that she is going to keep playing small and never actually live, keep being the responsible, respected, dependable one, and miss her own life doing it. Five-year scenario: her body breaking down from years of shift work and chronic stress, watching other women build the life she always wanted while she stayed safe and "smart."
+**How The Next Wave did it:** Surface fear, "I have no time." Real fear: that she is going to keep playing small and never actually live, keep being the responsible, respected, dependable one, and miss her own life doing it. Five-year scenario: her body breaking down from years of shift work and chronic stress, watching other women build the life she always wanted while she stayed safe and "smart."
 
 "Stayed safe and smart" is the kill shot. That is a hook waiting to be written.
 
@@ -121,7 +121,7 @@ The five levels: **Unaware** (does not know the problem has a name), **Problem-a
 
 **Stop when** you can look at any ad you drafted and tell whether it is aimed at the right tier.
 
-**How Kelley did it:** About the problem, she is distracting more than admitting (vacations, shopping, wine, scrolling). She feels the discontent but has not named it, and when she does she defaults to "I should be grateful." About solutions, mostly unaware with quiet curiosity. She has seen online business in passing but has not seriously considered it for someone like her. Not solution-shopping yet, just feeling out whether it is even real. Targeting tier: Unaware plus Problem-Aware only.
+**How The Next Wave did it:** About the problem, she is distracting more than admitting (vacations, shopping, wine, scrolling). She feels the discontent but has not named it, and when she does she defaults to "I should be grateful." About solutions, mostly unaware with quiet curiosity. She has seen online business in passing but has not seriously considered it for someone like her. Not solution-shopping yet, just feeling out whether it is even real. Targeting tier: Unaware plus Problem-Aware only.
 
 ### 7. Her language and tone
 
@@ -135,7 +135,7 @@ The five levels: **Unaware** (does not know the problem has a name), **Problem-a
 
 **Stop when** the scroll-stop list sounds like things she would actually say, and the tune-out list makes you flinch because half the industry uses those exact phrases.
 
-**How Kelley did it, phrases that stop her scroll:** "You don't need a new job. You need a new income vehicle." "Built for more than this. Tired of acting like you're not." "Successful on paper, exhausted in real life." "I love what I do. I just don't want to do it forever."
+**How The Next Wave did it, phrases that stop her scroll:** "You don't need a new job. You need a new income vehicle." "Built for more than this. Tired of acting like you're not." "Successful on paper, exhausted in real life." "I love what I do. I just don't want to do it forever."
 
 **Phrases that make her tune out:** "Boss babe," "CEO of your life." "Quit your 9-to-5," "fire your boss," "escape the rat race." "Manifest abundance," "align with your purpose." Any income-claim hype: "easy money," "passive income," "$10K in your first month."
 

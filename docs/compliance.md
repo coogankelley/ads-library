@@ -31,7 +31,7 @@ The risky lane, the one to avoid: second-person call-outs of her job, her money,
 
 No specific results, no typical results, no guaranteed results. No income numbers. No "easy," no "passive," no "money while you sleep."
 
-This is both Kelley's rule and Meta policy, and they point the same way. Describe the mechanism honestly and name the real effort. The outcomes you *can* sell are the non-financial ones: freedom, time, presence, an exit from the grind, a business that runs without you chained to it.
+This is Meta policy, and it is also just what works in this niche. Describe the mechanism honestly and name the real effort. The outcomes you *can* sell are the non-financial ones: freedom, time, presence, an exit from the grind, a business that runs without you chained to it.
 
 One nuance worth knowing: **cost-of-entry figures are okay, income figures are not.** "Around five dollars a day in ad spend" describes a cost and is fine. "Make X a month" describes earnings and is banned. When in doubt, if the number describes money coming *in*, cut it.
 

@@ -3,7 +3,7 @@
 Once your script is written and your hooks are checked, you film. One body, every hook, in one session if you can.
 
 !!! note "This page is being built"
-    The full recording walkthrough is coming. The points below are the bones. The detailed version gets written once Kelley adds the recording material from the mentorship. If you are filming before then, the essentials here will keep you moving.
+    The full recording walkthrough is coming. The points below are the bones. The detailed version gets written once the recording material from the mentorship is added. If you are filming before then, the essentials here will keep you moving.
 
 ## The essentials
 

@@ -2,7 +2,7 @@
 
 Your hooks are filmed, cut, and captioned. Now the campaign goes live. You can build it by hand in Ads Manager, clicking through a new ad for every single hook, or you can have Claude build the whole thing for you and just hit publish yourself. This page is the second way, because once it is set up it turns an hour of clicking into a few minutes of reviewing.
 
-This is exactly how The Next Wave campaign went up. Claude was connected to the ad account, it built the campaign with one ad per hook all sharing the same copy, and then Kelley reviewed it and published. Claude never pressed go. That is the whole point.
+This is exactly how The Next Wave campaign went up. Claude was connected to the ad account, it built the campaign with one ad per hook all sharing the same copy, and then we reviewed it and published. Claude never pressed go. That is the whole point.
 
 ## The idea
 
