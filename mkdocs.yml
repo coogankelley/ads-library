@@ -1,0 +1,75 @@
+site_name: The Next Wave Ads Library
+site_description: The whole system we use to run Meta ads for The Next Wave, in one place.
+docs_dir: docs
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+nav:
+  - Start here: index.md
+  - Foundations: foundations.md
+  - 1 · Discovering your ICA:
+      - Finding your ICA: finding-your-ica.md
+      - The conversion quadrant: conversion-quadrant.md
+  - 2 · Building your script:
+      - Ad anatomy: ad-anatomy.md
+      - Writing the body: writing-the-body.md
+      - Hooks: hooks.md
+      - Headlines and primary text: headlines-and-text.md
+      - Compliance and guardrails: compliance.md
+  - 3 · Recording:
+      - Recording: recording.md
+      - Editing in CapCut: editing-capcut.md
+      - Creative and b-roll: creative-broll.md
+  - 4 · Posting in Meta:
+      - Posting in Meta with Claude: posting-meta.md
+  - 5 · Tracking data:
+      - Testing: testing.md
+      - Understanding your KPIs: understanding-kpis.md
+      - Metrics and optimizing: metrics.md
+  - Templates:
+      - Body script template: swipe-files/body-script.md
+      - Hook bank template: swipe-files/hook-bank.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  generator: false

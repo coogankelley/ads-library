@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{#
+  Keep the library out of search engines. This adds a noindex tag to every
+  page, which is the reliable way to stay un-indexed on a free GitHub Pages
+  project site (a root robots.txt is not honored on a project subpath).
+  The site stays reachable by direct link, just not findable via search.
+#}
+{% block extrahead %}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
