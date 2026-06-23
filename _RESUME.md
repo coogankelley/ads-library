@@ -2,6 +2,16 @@
 
 ## Open thread for next session (Kelley reading through 2026-06-23 eve)
 - Kelley is reading every page and tracking edits; she'll report a batch back. Wait for her list.
+- Done 2026-06-23 eve: (1) Hook test tracker TEMPLATE created = a COPY of her live tracker,
+  blanked inputs (formulas kept), shared reader, /copy link on new page
+  `docs/swipe-files/hook-test-tracker.md`. Template sheet id 11opibDetlxnYH1UqB28eldr0s96nPuPnDAJGCuPEjbA.
+  HER ORIGINAL (1ZhyUnMYlPiBgVosthZDDd8udfS66D1rbuK0RXMIju_k) was NOT touched.
+  (2) Team-wide language: removed "your ADS REFERENCES folder" refs (partners lack it) ->
+  point to Templates / generic. Worked-example "Next Wave" refs kept (they're labeled examples).
+  (3) Added "Why this matters now" intro on the home page (Meta AI delivery / creative-led).
+- CAUTION (Kelley): never edit her live trackers; work on copies or build new.
+- Open Q for tomorrow: the "500 universal hooks" doc isn't shared with partners yet (hooks.md
+  now just describes it). Decide whether to share/copy it as a template too.
 - Latest design: blue-teal palette (page #e4f1f8, panel #d4e7f2, accent #1273a0), white content
   card, navy header, Georgia. Left nav decluttered (removed toc.integrate). Templates now LAST
   (both nav section and on the homepage body).
