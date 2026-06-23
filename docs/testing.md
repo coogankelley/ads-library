@@ -38,6 +38,6 @@ The most common way to ruin a test is to call it too early. A hook that looks we
 
 ## Next
 
-- The bigger plan this fits into (hooks first, then the body): [The strategy](strategy.md).
+- The bigger plan this fits into (hooks first, then the body): [The Ads Strategy](strategy.md).
 - Reading the full scoreboard, and when to keep, kill, or scale: [Metrics](metrics.md).
 - Need more hooks to test: [Hooks](hooks.md).

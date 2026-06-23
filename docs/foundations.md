@@ -14,7 +14,7 @@ A few examples of the difference:
 - Don't say "the old life." Show the scrubs, the parking lot, the 4:45am alarm.
 - Don't say "click the link below." Show the cursor moving to the button.
 
-When you write your script later, you write it in two columns: what you SAY and what you SHOW. Every important line of voiceover gets a visual. That is not a nice-to-have. That is the format.
+When you write your script later, every important line you say gets paired with something to show on screen: b-roll, a screen recording, text, a cut. That pairing is the format. Say it, and show it.
 
 Two more pieces of the same rule:
 
@@ -46,7 +46,7 @@ What you never do is put a dollar figure or an income promise anywhere near it. 
 
 ## The format we run
 
-There are a few ways to structure a video ad, and you pick one before you write (that is step 0 in [The strategy](strategy.md)). The one we built for The Next Wave, and the one most examples in this library use, is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
+There are a few ways to structure a video ad, and you pick one before you write (that is step 0 in [The Ads Strategy](strategy.md)). The one we built for The Next Wave, and the one most examples in this library use, is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
 
 It is one option, not the only one. The full breakdown of the types, and the 6 parts they all share, is in [Ad anatomy](ad-anatomy.md).
 

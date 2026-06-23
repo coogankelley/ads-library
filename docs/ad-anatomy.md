@@ -27,13 +27,13 @@ Why we do it this way: if you change five things every time, you never learn wha
 
 ## The format is one of several
 
-The 6 parts are the constant. What changes is how long the ad runs, the order the parts come in, and where you send her at the end. Long-form edification (what we built for The Next Wave) is one way to do it, not the only way. You pick the type first, then build the 6 parts to fit it. Three we run from:
+The 6 parts are the constant. What changes is how long the ad runs, the order the parts come in, and where you send her at the end. Long-form edification is one way to do it, not the only way. You pick the type first, then build the 6 parts to fit it. Three we run from:
 
-- **Long-form edification.** You on camera, telling your story, edifying the webclass host, driving to her free training. The longer format, written so the host beats can be lifted out later if you ever run your own webinar. This is the one we built, and the one the rest of this library uses for its worked examples.
-- **Short-form, direct response.** A much shorter video. Instead of a link straight to the webclass, the CTA asks her to message you a keyword or fill out a quick instant form, and that is how she gets the training link. Lower friction, faster to film, good as a first touch.
+- **Long-form edification.** You on camera, telling your story and, if the webclass host is someone other than you, edifying that host, then driving her to the free training. The longer format, written so the host beats can be lifted out later if you ever run your own webinar. This is the one most examples in this library use.
+- **Short-form, direct response.** A much shorter video. Instead of a link straight to the webclass, the CTA asks her to message you a keyword or fill out a quick instant form, and that is how she gets the training link. Lower friction and faster to film. Ideal when you are just starting out, or when you want to build rapport with leads through a quick back-and-forth before they ever reach the training.
 - **Standard, direct to webinar.** Content first: right after the hook you go straight into the demonstration (the affiliate networks, the Ads Manager, how it runs), then relatability, then the CTA. No host edification, because you are sending her straight to the training. Shorter than the long-form version.
 
-Same 6 parts every time. Only the length, the order, and the final destination move. Where you actually pick one and commit before you write is [The strategy](strategy.md), step 0.
+Same 6 parts every time. Only the length, the order, and the final destination move. Where you actually pick one and commit before you write is [The Ads Strategy](strategy.md), step 0.
 
 ## Long-form edification, up close
 
@@ -49,6 +49,31 @@ The long-form path is the one we built, so here it is in full. On top of the 6 p
 8. CTA 2
 
 We write these so the edification beats could be lifted out later without the script breaking. If you ever host your own training, the spine still stands.
+
+## Short-form, direct response, up close
+
+The short-form path trades length for speed and conversation. You are not teaching the whole mechanism on camera, you are earning enough trust to get her to raise her hand. The shape:
+
+1. Hook
+2. A quick relatability beat (a line or two: you were where she is)
+3. CTA 1 (message you a keyword, or fill a short instant form, to get the training)
+4. A short twist (the honest cost of staying put)
+5. CTA 2 (the same ask, stronger)
+
+The content beat is light or skipped here, because the job is the click and the conversation, not the full explanation. When she messages the keyword or fills the form, she gets the training link and you have an open thread to build rapport in. That is what makes this one suit a newer partner: it is faster to film, and the back-and-forth does some of the warming up for you. (Caption CTAs for this path are in [Headlines and primary text](headlines-and-text.md).)
+
+## Standard, direct to webinar, up close
+
+The standard path leads with the demonstration instead of the story. You hook, then go straight into showing how the thing works, then place yourself in it. The shape:
+
+1. Hook
+2. Content (the demonstration: the affiliate networks, the Ads Manager, how the system runs)
+3. Relatability (who you were before this, where it took you)
+4. CTA 1 (the next step, usually the training)
+5. Twist the knife
+6. CTA 2
+
+No host edification beats, because you are sending her straight to the training rather than pointing to someone else's webclass. It runs shorter than the long-form version and leans on the strength of the demonstration to carry it. Use it when the proof is in showing the mechanism fast, not in the slow build of the story.
 
 ## How the parts hand off
 
@@ -71,5 +96,5 @@ These numbers are for the long-form path. The short-form and direct-to-webinar t
 
 ## Next
 
-- Build the part that never changes: [Writing the body](writing-the-body.md).
-- Then write the part you test: [Hooks](hooks.md).
+- Write the part you test first: [Hooks](hooks.md).
+- Then build the part that stays put: [Writing the body](writing-the-body.md).

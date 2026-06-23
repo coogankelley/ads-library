@@ -1,4 +1,4 @@
-# The strategy
+# The Ads Strategy
 
 Before anyone writes a hook or films a thing, the whole team needs to know the plan. Not "make some ads and see what happens." We run a deliberate test program: **one variable at a time, built off one script.** That is the entire game. Everything in this library serves it.
 
@@ -18,8 +18,8 @@ The hook is the first 1 to 3 seconds, and it is the only piece we swap at this s
 
 Here is how a round works:
 
-1. **Lock one body you trust.** Write the body of the script once and leave it alone. This is the part that does not change. (See [Writing the body](writing-the-body.md).)
-2. **Write 15 to 20 hooks.** Different angles, all on the same body. (See [Hooks](hooks.md).)
+1. **Hold one body steady.** You write the script once and lock the body. It does not change while you test, so every hook gets measured against the same thing. (See [Writing the body](writing-the-body.md).)
+2. **Write 15 to 20 hooks against it.** Different angles, same body. (See [Hooks](hooks.md).)
 3. **Run one campaign, 15 to 20 ads, one hook each.** Same body, same audience, same everything. The hook is the only difference between them.
 4. **Let the data pick.** Run them long enough to gather real numbers, then read the click-through rates. The hooks that clear the bar earned their spot. The ones well under are done.
 

@@ -8,7 +8,7 @@ Once your script is written and your hooks are checked, you film. One body, ever
 ## The essentials
 
 - **One session, one setup.** Film the body once. Then film every hook back to back against the same setup so they cut together cleanly later. Same framing, same light, same outfit.
-- **Film vertical.** You are editing to a square or vertical format for the feed and reels. Frame with that in mind, with headroom for text overlays.
+- **Film horizontal.** The ad ends up square or vertical, but film in horizontal (landscape) anyway. It gives you more room to reframe and crop later, which makes editing far easier than trying to fix a tight vertical shot. Leave space around yourself so you can crop down to square or vertical without losing your head or your text overlays.
 - **Read the body out loud and time it before you film.** Body voiceover under 4 minutes. If it runs long on camera, it ran long on the page. Fix the page, not the take.
 - **Light on your face, sound clean.** Natural window light or a soft key light. Audio matters more than camera quality. A quiet room or a small mic beats a fancy lens with echo.
 - **Talk to one woman.** You wrote it to her. Deliver it to her. Warm, direct, like you are talking across a table, not presenting.

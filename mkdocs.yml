@@ -24,15 +24,15 @@ theme:
 nav:
   - Start here: index.md
   - Foundations: foundations.md
-  - The strategy: strategy.md
+  - The Ads Strategy: strategy.md
   - Compliance and guardrails: compliance.md
   - 1 · Discovering your ICA:
       - Finding your ICA: finding-your-ica.md
       - The conversion quadrant: conversion-quadrant.md
   - 2 · Building your script:
       - Ad anatomy: ad-anatomy.md
-      - Writing the body: writing-the-body.md
       - Hooks: hooks.md
+      - Writing the body: writing-the-body.md
   - 3 · Recording:
       - Recording: recording.md
       - Editing in CapCut: editing-capcut.md

@@ -8,7 +8,7 @@ These sit on top of everything below. If a cut does not serve one of them, it is
 
 - **Don't just talk, show.** Every important line gets something visual behind it.
 - **A visual change every 3 to 4 seconds.** A cut, a new clip, a text overlay, an angle change. Keep resetting attention.
-- **Every time you SAY something important, ask how to SHOW it.** That question is the whole job.
+- **Every time you say something important, ask how to show it.** That question is the whole job.
 
 ## The order
 

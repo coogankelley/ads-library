@@ -27,7 +27,7 @@ To let Claude build in your account, it needs a connection to your Meta ad accou
 - A secure access token that gives Claude permission to build (not publish) in your ad account.
 - Your ad account ID, so it builds in the right place.
 
-Both of these are secrets. They live in a secure secret manager, never pasted into a chat window and never saved in a plain file. When Claude runs the build, it reads them from that secure store at the moment it runs. If anyone ever asks you to paste a token or password into a chat, stop, because that is not how this works.
+Both of these are secrets, so they live in your Doppler account (a secure secrets manager), never pasted into a chat window and never saved in a plain file. When Claude runs the build, it reads them straight from Doppler at the moment it runs. If anyone ever asks you to paste a token or password into a chat, stop, because that is not how this works.
 
 You only do this setup once. After that, every future campaign is just the flow below.
 

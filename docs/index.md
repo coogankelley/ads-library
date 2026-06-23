@@ -12,7 +12,7 @@ So the edge is no longer a hidden audience setting. It is knowing your one perso
 
 ## The plan, before you build anything
 
-We do not just make ads and hope. We run a deliberate test program: one variable at a time, built off one script. Hooks first, across a few rounds, until we have a handful that reliably stop the scroll. Then we test the body, still one thing at a time. Read [The strategy](strategy.md) before you write a word, so you know what you are working toward.
+We do not just make ads and hope. We run a deliberate test program: one variable at a time, built off one script. Hooks first, across a few rounds, until we have a handful that reliably stop the scroll. Then we test the body, still one thing at a time. Read [The Ads Strategy](strategy.md) before you write a word, so you know what you are working toward.
 
 ## The path, start to finish
 
@@ -23,11 +23,11 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - [Finding your ICA](finding-your-ica.md). The 7-dimension exercise that turns a fuzzy audience into one specific person.
 - [The conversion quadrant](conversion-quadrant.md). Her pains, fears, desires, and avoids on one page you write against.
 
-**2. Building your script.** Write the ad: the body that never changes, the hooks you test, and the words around the video.
+**2. Building your script.** Write the ad: the hooks you test, the body that never changes, and the words around the video.
 
 - [Ad anatomy](ad-anatomy.md). The 6 parts every ad has, in order.
-- [Writing the body](writing-the-body.md). The part of the script that does not change, plus a real worked example.
 - [Hooks](hooks.md). The first 3 seconds. One body, many hooks, let the data pick.
+- [Writing the body](writing-the-body.md). The part of the script that does not change, plus a real worked example.
 
 **3. Recording.** Film it and cut it into finished ads.
 

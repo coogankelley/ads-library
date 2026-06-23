@@ -50,6 +50,12 @@ You log the numbers daily into one sheet so the whole funnel sits in one row and
 
 Which one to use, every column defined, and how each metric is calculated all live in [Understanding your KPIs](understanding-kpis.md). The point is not the logging, it is that the tracker tells you which stage broke before you have wasted budget on it.
 
+## Let Claude pull and read the numbers
+
+You do not have to export CSVs or copy cells by hand. Claude is connected to your Meta ad account for reads, so you can just ask: pull the numbers on my live hook test. It reads CTR (All), CTR (Link), and landing-page conversion for each hook, lines them up against the floors above, and tells you which hooks are clearing the bar and which are not. It can drop the day's numbers straight into your tracker copy so the row is filled for you.
+
+It is reads only, on purpose. Claude pulls and reports, but it never changes a budget and never flips anything live or off. Those calls stay yours, the same rule as [Posting in Meta](posting-meta.md). What you get is the read done in seconds, so your time goes to deciding instead of collecting.
+
 ## How to actually run this
 
 You do not stare at a dashboard all day. You check the top-of-funnel numbers, find the lowest stage that is under its floor, and fix that one thing. Then you re-check. One leak at a time, in order, from the top. Chasing five metrics at once is how you spend a week optimizing and move nothing.

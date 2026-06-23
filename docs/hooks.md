@@ -77,7 +77,10 @@ What none of them do: promise a dollar amount, call out her job in the second pe
 4. Cut anything that fails. End up filming 10 to 20 you actually believe in.
 5. Get a second pair of eyes on the list before you film. Voice check, compliance check, strength check.
 
+!!! tip "Let Claude do the first pass"
+    Hand Claude your [ICA](finding-your-ica.md) and [conversion quadrant](conversion-quadrant.md) and ask it for 15 to 20 hooks aimed straight at her, using the angles and rules on this page. Then have it help you narrow: which ones name her reality hardest, which just repeat an angle, which trip a [compliance](compliance.md) rule. AI is fast at volume and at matching your avatar. You still own the voice check and the final cut, because a hook has to sound like you, not like a bot.
+
 ## Next
 
-- Hooks written and checked? Take the body and all your hooks to camera: [Recording](recording.md).
+- Hooks written and checked? Now build the part that stays put: [Writing the body](writing-the-body.md).
 - Want to understand how the winners get picked later: [Testing](testing.md).

@@ -53,7 +53,7 @@ Most of your traffic reads on mobile. Dense paragraphs get scrolled past before 
 
 End the caption by telling her what to do and what happens next. Match it to the next step in your funnel:
 
-- **Send Message ads:** "Send me the word FREEDOM and I'll send you the free training."
+- **Send Message ads:** "Send me the word READY and I'll send you the free training."
 - **Instant Form ads:** "Fill out the quick form so I can learn about your goals, then you get instant access to the training."
 - **Direct to webclass:** "Tap the link and watch the free training."
 

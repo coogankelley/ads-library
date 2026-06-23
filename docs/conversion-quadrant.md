@@ -2,6 +2,25 @@
 
 Once your [ICA](finding-your-ica.md) is built, the conversion quadrant distills it into one page you can keep open while you write. It is four boxes: Pains, Fears, Desires, Avoids. The whole point is emotion. People are moved more by the fear of losing something than the promise of gaining it, so the sharper you get on what she fears and avoids, the more your copy speaks straight to her.
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:480px;margin:1.75em 0;">
+  <div style="border:2px solid var(--md-primary-fg-color);border-radius:10px;padding:14px 16px;">
+    <strong>Pains</strong><br>
+    <span style="font-size:.82em;opacity:.75;">What hurts right now</span>
+  </div>
+  <div style="border:2px solid var(--md-primary-fg-color);border-radius:10px;padding:14px 16px;">
+    <strong>Fears</strong><br>
+    <span style="font-size:.82em;opacity:.75;">What scares her long term</span>
+  </div>
+  <div style="border:2px solid var(--md-primary-fg-color);border-radius:10px;padding:14px 16px;">
+    <strong>Desires</strong><br>
+    <span style="font-size:.82em;opacity:.75;">What she actually wants</span>
+  </div>
+  <div style="border:2px solid var(--md-primary-fg-color);border-radius:10px;padding:14px 16px;">
+    <strong>Avoids</strong><br>
+    <span style="font-size:.82em;opacity:.75;">What she will not do to get it</span>
+  </div>
+</div>
+
 ## The four boxes
 
 Fill each with short, specific lines pulled from your ICA doc. Ten or so per box is plenty. In her words, not marketing words.
@@ -35,5 +54,5 @@ You are not just collecting these. Each box has a job in the script:
 
 ## Next
 
-- Now use it to write: [Ad anatomy](ad-anatomy.md), then [Writing the body](writing-the-body.md).
+- Now use it to write: [Ad anatomy](ad-anatomy.md), then [Hooks](hooks.md) and [Writing the body](writing-the-body.md).
 - Turn the pains and desires into scroll-stoppers: [Hooks](hooks.md).
