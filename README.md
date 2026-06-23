@@ -1,4 +1,4 @@
-# The Next Wave Ads Library
+# The Ads Library
 
 Internal project doc. The partner-facing library lives in [`docs/`](docs/) and renders as a browsable MkDocs site once we push.
 

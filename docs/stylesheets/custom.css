@@ -1,0 +1,79 @@
+/* The Ads Library brand styling
+   Light teal background, navy accents, Georgia type. */
+
+:root {
+  /* Brand palette */
+  --tal-teal-bg:   #e4f4f2;  /* light teal page background */
+  --tal-teal-soft: #d4ecea;  /* slightly deeper teal for surfaces */
+  --tal-navy:      #1a2a4f;  /* navy: header, headings, accents */
+  --tal-navy-dark: #111d38;
+  --tal-teal-pop:  #0e7c86;  /* teal pop for hovers/interactive */
+  --tal-ink:       #16233f;  /* body text */
+
+  /* Map onto Material's variables (palette: custom) */
+  --md-default-bg-color:        var(--tal-teal-bg);
+  --md-primary-fg-color:        var(--tal-navy);
+  --md-primary-fg-color--light: #2c3f6b;
+  --md-primary-fg-color--dark:  var(--tal-navy-dark);
+  --md-accent-fg-color:         var(--tal-teal-pop);
+  --md-typeset-color:           var(--tal-ink);
+  --md-typeset-a-color:         var(--tal-navy);
+
+  /* Georgia for body text */
+  --md-text-font: "Georgia";
+}
+
+/* Georgia everywhere for prose; leave code in monospace */
+body,
+input,
+.md-typeset,
+.md-nav,
+.md-tabs__link {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Headings in navy */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--tal-navy);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Page title gets a teal underline accent */
+.md-typeset h1 {
+  border-bottom: 3px solid var(--tal-teal-pop);
+  padding-bottom: 0.25rem;
+}
+
+/* Links: navy with a soft teal underline, teal on hover */
+.md-typeset a {
+  color: var(--tal-navy);
+  text-decoration: underline;
+  text-decoration-color: rgba(14, 124, 134, 0.45);
+  text-underline-offset: 2px;
+}
+.md-typeset a:hover {
+  color: var(--tal-teal-pop);
+}
+
+/* Table header rows in navy for a bit of color */
+.md-typeset table:not([class]) th {
+  background-color: var(--tal-navy);
+  color: #ffffff;
+}
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--tal-teal-soft);
+}
+
+/* Admonition/blockquote accent bar in teal */
+.md-typeset blockquote {
+  border-left: 0.2rem solid var(--tal-teal-pop);
+}
+
+/* Keep code blocks readable on the teal page */
+.md-typeset pre > code,
+.md-typeset code {
+  background-color: #f1f7f6;
+}

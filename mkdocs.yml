@@ -1,26 +1,15 @@
-site_name: The Next Wave Ads Library
-site_description: The whole system we use to run Meta ads for The Next Wave, in one place.
+site_name: The Ads Library
+site_description: The whole system we use to run Meta ads, in one place.
 docs_dir: docs
 
 theme:
   name: material
   custom_dir: overrides
   palette:
-    - scheme: default
-      primary: black
-      accent: teal
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: black
-      accent: teal
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-  font:
-    text: Inter
-    code: Roboto Mono
+    scheme: default
+    primary: custom
+    accent: custom
+  font: false
   features:
     - navigation.instant
     - navigation.tracking
@@ -70,6 +59,9 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra_css:
+  - stylesheets/custom.css
 
 extra:
   generator: false

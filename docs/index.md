@@ -1,6 +1,6 @@
-# The Next Wave Ads Library
+# The Ads Library
 
-This is the whole system we use to run Meta ads for The Next Wave, in one place. Not a course you have to finish in order. A reference you come back to. Use the search bar up top or the menu on the left to jump straight to what you need.
+This is the whole system we use to run Meta ads, in one place. Not a course you have to finish in order. A reference you come back to. The worked examples throughout come from The Next Wave, but the playbook is the same for everyone on the team. Use the search bar up top or the menu on the left to jump straight to what you need.
 
 ## The path, start to finish
 
