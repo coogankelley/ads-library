@@ -39,12 +39,6 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - [Foundations](foundations.md). The one rule that runs everything (show, don't tell) and where the ad sits in the bigger picture.
 - [Compliance and guardrails](compliance.md). Income claims sink ad accounts. We never run them. This is not optional reading.
 
-## Templates
-
-- [Body script template](swipe-files/body-script.md)
-- [Hook bank template](swipe-files/hook-bank.md)
-- [KPI trackers](swipe-files/kpi-trackers.md). Copy your own from the two shared tracking sheets.
-
 ## A few ground rules
 
 - Income claims sink ad accounts. We never run them. This whole library shows you how to write hard without crossing that line.
@@ -52,3 +46,11 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - Done beats clever. A live ad with rough edges teaches you more in a week than a perfect ad sitting in your drafts for a month.
 
 Start with [Finding your ICA](finding-your-ica.md).
+
+## Templates
+
+The fill-in-the-blank pieces, when you need them:
+
+- [Body script template](swipe-files/body-script.md)
+- [Hook bank template](swipe-files/hook-bank.md)
+- [KPI trackers](swipe-files/kpi-trackers.md). Copy your own from the two shared tracking sheets.

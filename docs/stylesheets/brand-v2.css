@@ -2,13 +2,13 @@
    Teal frame, white reading card, navy structure, Georgia type. */
 
 :root {
-  --tal-page:       #d9eee9;  /* teal page (the frame around the white card) */
-  --tal-panel:      #cbe5de;  /* deeper teal for the left menu panel */
+  --tal-page:       #e4f1f8;  /* light blue-teal page (the frame around the white card) */
+  --tal-panel:      #d4e7f2;  /* deeper blue-teal for the left menu panel */
   --tal-card:       #ffffff;  /* white reading surface */
-  --tal-soft:       #eef7f5;  /* table stripes */
+  --tal-soft:       #eef6fb;  /* table stripes */
   --tal-navy:       #1a2a4f;  /* navy: header, headings, accents */
   --tal-navy-dark:  #111d38;
-  --tal-teal-pop:   #0e7c86;  /* teal pop for hovers / active marker */
+  --tal-teal-pop:   #1273a0;  /* blue-teal pop for hovers / active marker */
   --tal-ink:        #14233f;  /* body text */
 
   --md-text-font: "Georgia";
