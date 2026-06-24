@@ -25,7 +25,8 @@ Set your folders up first so you never lose work.
 ### 2. Set up
 
 - New project, import your raw materials, add them to the timeline.
-- **Set the aspect ratio first.** For send-message or instant-form ads, 4:5 works better. For long-form, 1:1 works better.
+- **Set the aspect ratio first.** 4:5 and 16:9 are the two ratios performing right now, so pick one of those. 1:1 square has fallen behind, so we no longer default to it. Use your judgment for the specific ad and placement.
+- **Tip: build in 16:9 with a 4:5 guide so you can switch later without rebuilding.** If you edit in 16:9, drop a 4:5 frame (a shape or overlay set to the correct 4:5 dimensions) onto the timeline as a visual guide, and keep your face and captions inside it. Then if you want the 4:5 version, you crop to that frame instead of re-editing the whole video. One edit, two ratios.
 - Scale to fill, then position yourself off-center (rule of thirds) so there is room for graphics and text.
 
 ### 3. Build the body
@@ -80,7 +81,7 @@ This is the one-body-many-hooks step, where each hook on the front of the same b
 
 ## Export for Meta
 
-- Match the aspect ratio you set in step 2 (4:5 for send-message or instant-form, 1:1 for long-form).
+- Match the aspect ratio you set in step 2 (4:5 or 16:9). If you built in 16:9 with a 4:5 guide, export both versions.
 - Captions burned in.
 - Keep the file clean and high quality for upload.
 

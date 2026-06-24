@@ -35,9 +35,16 @@ This is Meta policy, and it is also just what works in this niche. Describe the 
 
 One nuance worth knowing: **cost-of-entry figures are okay, income figures are not.** "Around five dollars a day in ad spend" describes a cost and is fine. "Make X a month" describes earnings and is banned. When in doubt, if the number describes money coming *in*, cut it.
 
-## No fake scarcity, no manufactured urgency
+## Scarcity: use the real kind, never the fake kind
 
-No fake countdown timers, no "only 3 spots left" when that is not true, no pressure closing. Real urgency only, like an actual webclass access window. The offer is strong enough that honest framing is the most persuasive move you have.
+Scarcity works, and it's worth understanding why. When something is always available, there's no cost to waiting, so she waits. And "later" is where most decisions quietly die. A real deadline removes the option to stall. It moves her to decide now instead of someday, which is exactly what a strong offer earns.
+
+So scarcity is a tool you should use. The only rule is that the thing creating the pressure has to be true.
+
+- **Real scarcity, use it freely.** An actual webclass access window that really closes, a cohort that genuinely caps, enrollment that truly opens and shuts, a real deadline on a bonus.
+- **Fake scarcity, never.** A countdown timer that resets on refresh, "only 3 spots left" with no real cap, "price goes up tonight" when it never does.
+
+Fake scarcity gets flagged by Meta, and it costs you more than the ad. The woman you're selling to is sharp. The first fabricated deadline she catches, she stops believing all of them, including the real ones. Honest urgency still lands the second and third time she sees you. Fake urgency only works until she notices.
 
 ## Banned words
 
@@ -75,6 +82,8 @@ Before any ad ships, it passes this sweep:
 5. No em dashes.
 6. Company unnamed.
 7. The landing page it points to is also claim-free.
+
+You don't have to run that sweep by eye alone. Drop your script, primary text, or headlines into Claude and ask it to check them against these rules. It'll catch personal-attribute call-outs, income language, banned words, and em dashes faster than you'll spot them yourself, and it can suggest a compliant rewrite of any line that trips. Use it as a second set of eyes before you spend, not as a substitute for writing from the safe lanes in the first place.
 
 Enforcement shifts and is not always transparent. Treat all of this as risk reduction, and cross-check anything borderline against Meta's current policy and the program's own compliance guidance before you spend money behind it.
 

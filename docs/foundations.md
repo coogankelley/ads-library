@@ -4,15 +4,15 @@ Before you touch Ads Manager, before you write a single line, two things have to
 
 ## The one rule: show, don't tell
 
-A Meta video ad is a demonstration, not a monologue. That is the whole thing. Every time you are about to say something important, stop and ask: how can I show this instead.
+A Meta video ad is a demonstration, not a monologue. That is the whole thing. Every time you are about to say something important, stop and ask: how can I show this as I say it.
 
 It sounds simple. It is the rule that quietly does the most work and the one most people skip.
 
 A few examples of the difference:
 
-- Don't say "I built a business that runs without me." Show the laptop closing, the dashboard, the day that keeps going while you are not at it.
-- Don't say "the old life." Show the scrubs, the parking lot, the 4:45am alarm.
-- Don't say "click the link below." Show the cursor moving to the button.
+- Don't just say "I built a business that runs without me." Show the laptop closing, the dashboard, the day that keeps going while you are not at it.
+- Don't just say "the old life." Show the scrubs, the parking lot, the 4:45am alarm.
+- Don't just say "click the link below." Show the cursor moving to the button.
 
 When you write your script later, every important line you say gets paired with something to show on screen: b-roll, a screen recording, text, a cut. That pairing is the format. Say it, and show it.
 
@@ -49,6 +49,11 @@ What you never do is put a dollar figure or an income promise anywhere near it. 
 There are a few ways to structure a video ad, and you pick one before you write (that is step 0 in [The Ads Strategy](strategy.md)). The one we built for The Next Wave, and the one most examples in this library use, is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
 
 It is one option, not the only one. The full breakdown of the types, and the 6 parts they all share, is in [Ad anatomy](ad-anatomy.md).
+
+## Two ground rules
+
+- **Hard work is not the issue.** If you are here, you already know how to work. This is about pointing it at the right thing.
+- **Done beats clever.** A live ad with rough edges teaches you more in a week than a perfect one sitting in your drafts.
 
 ## Next
 
