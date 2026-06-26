@@ -6,14 +6,14 @@ The video is the ad, but the headline and the primary text (the caption above th
 
 The headline is one line. Pick a formula, fill it with her real situation, keep it claim-free. Eight that work:
 
-- **How to (what she wants) without (her big fear).** "How to build income online without a product of your own."
-- **The fastest way to (something she wants).** "The fastest way to replace a 9-to-5 income without starting from scratch."
-- **How I went from (undesired) to (desired).** "How I went from dreading Mondays to working from my laptop."
-- **What nobody tells you about (her situation).** "What nobody tells you about building income while working full time."
-- **I used to (relatable situation). Here's what changed.** "I used to dread Sunday nights. Here's what changed."
-- **For the (specific person) who (specific situation).** "For the woman who has done everything right and still feels stuck."
-- **The real reason (common belief). And what works instead.** "The real reason your side hustle isn't working. And what to do instead."
-- **The simplest way to (outcome) without (fear).** "The simplest way to build income online without a following or sales calls."
+- **How to (what she wants) without (her big fear).** "How to Build Income Online Without a Product of Your Own."
+- **The fastest way to (something she wants).** "The Fastest Way to Replace a 9-to-5 Income Without Starting From Scratch."
+- **How I went from (undesired) to (desired).** "How I Went From Dreading Mondays to Working From My Laptop."
+- **What nobody tells you about (her situation).** "What Nobody Tells You About Building Income While Working Full Time."
+- **I used to (relatable situation). Here's what changed.** "I Used to Dread Sunday Nights. Here's What Changed."
+- **For the (specific person) who (specific situation).** "For the Woman Who Has Done Everything Right and Still Feels Stuck."
+- **The real reason (common belief). And what works instead.** "The Real Reason Your Side Hustle Isn't Working. And What to Do Instead."
+- **The simplest way to (outcome) without (fear).** "The Simplest Way to Build Income Online Without a Following or Sales Calls."
 
 Notice none of them carry a dollar figure or an income promise. "Replace a 9-to-5 income" describes a goal, not a result. Keep yours on that side of the line.
 

@@ -64,6 +64,8 @@ The body is filmed once. The hooks are the variable you test, so film them all i
 - Get a couple of takes of each hook. Editing wants options, and the hook is the piece you swap most.
 - Keep them labeled as you go, so you are not guessing which take is which in CapCut later.
 
+**Tip: let Claude sort them for you.** Once your hooks are filmed, you can hand the raw files to Claude and have it divide them up and save them into clean, labeled folders (one per hook, takes inside), so everything is organized before you ever open CapCut.
+
 ## Grab your b-roll while you are at it
 
 While you are set up, also capture the b-roll the script calls for. See [Creative and b-roll](creative-broll.md) for what to film and how to source it from footage you already have.

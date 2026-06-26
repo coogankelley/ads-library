@@ -10,33 +10,34 @@ Here is the plan, start to finish.
 
 First you decide the kind of ad you are running. There is more than one way to build a video ad (long-form story-led, short-form, and others), and the type you pick is the container everything else gets tested inside. You lock it once, up front, and then it stays put while you test.
 
-This is what the [Building your script](ad-anatomy.md) section is for. Start there to choose your format and learn the parts. Once your ad type is locked, you do not touch it again mid-test. It is the one thing we hold steady so everything below can move.
+This is what the Building your script section is for. Start there to choose your format and learn the parts. Once your ad type is locked, you do not touch it again mid-test. It is the one thing we hold steady so everything below can move.
 
-## Phase 1: test hooks first
+## Phase 1: find your winning hooks
 
-The hook is the first 1 to 3 seconds, and it is the only piece we swap at this stage. So phase one is all about finding hooks that stop the scroll.
+The hook is the first 1 to 3 seconds, and at this stage it is the only piece you swap. Phase 1 is all about finding the hooks that stop the scroll.
 
 Here is how a round works:
 
-1. **Hold one body steady.** You write the script once and lock the body. It does not change while you test, so every hook gets measured against the same thing. (See [Writing the body](writing-the-body.md).)
-2. **Write 15 to 20 hooks against it.** Different angles, same body. (See [Hooks](hooks.md).)
+1. **Hold one body steady.** You write the script once and lock the body. It does not change while you test, so every hook gets measured against the same thing.
+2. **Write 15 to 20 hooks against it.** Different angles, same body.
 3. **Run one campaign, 15 to 20 ads, one hook each.** Same body, same audience, same everything. The hook is the only difference between them.
-4. **Let the data pick.** Run them long enough to gather real numbers, then read the click-through rates. The hooks that clear the bar earned their spot. The ones well under are done.
+4. **Let the data pick.** Run it about 7 days, then look at the numbers: which hook spent the most, which hook got the most webclass registrations, and the CTR, all and link. The hooks that clear the bar earned their spot. The ones well under are done.
 
-This runs across two campaign rounds. V1 tests every hook at once. V2 then retests the ones that did not clearly win, with V1 still running. Across both you are hunting for **3 to 5 hooks that reliably grab attention.** Those become your proven openers.
+You are going to run your first campaign with all your hooks (V1). Once you find your winning hook, you duplicate that campaign (V2) and run all the hooks again except the winner. The winner stays running in V1. You keep doing this until you find your winning 3 to 5 hooks.
 
-The full phase-by-phase rollout (V1, V2, V3) and how a round actually gets read (the scoreboard, how long to run, how to call a winner without calling it too early) live in [Testing](testing.md). This page is the plan. That page is the method.
+We will get into reading the numbers later. First, focus on getting the ad up and finding the winning hooks.
 
-## Phase 2: then test the body
+## Phase 2: test the visual
 
-Once you have your 3 to 5 winning hooks, the lever moves. This is the V3 round: you take each winning hook and film it again in different settings, backdrops, and outfits, one ad set per hook, to find which version performs best. You hold the hooks steady and start testing the body, still one variable at a time. The body is where there is a lot to test:
+Now you have your winning 3 to 5 hooks. Phase 2 takes those hooks and runs them in a new campaign (V3), with **one ad set per hook.** What changes this round is the visual: you film each winning hook again in a different location, a different outfit, different backdrops. So each ad set holds a couple of ads with the same hook but a different look, and you find out which version is the most appealing.
 
-- **The relatability beat.** A different version of your story, told a different way.
-- **The content.** How you teach the vehicle, what you show, the order you show it.
-- **Where you filmed.** The setting, the backdrop, on camera versus b-roll.
-- **The editing.** Pacing, captions, cuts, music.
+You already know the wording works. That part is settled. Now you are testing the visual variable, one thing at a time, the same way you tested the hooks.
 
-Same rule as phase one: change one thing, run it, read the result, keep or kill. The discipline never changes. Only the lever you are pulling does.
+## Phase 3: test the body
+
+Phase 3 is where you start testing the body. Same rule as always: one variable at a time, and do not get carried away. You only ever change one thing at a time, whether that is the relatability beat, the content, where you filmed, or how you edited the whole body.
+
+Phase 3 is an ongoing operation. You keep optimizing and making changes based on what the numbers are telling you. Your top hooks and best body become the base everything new gets measured against, and the bar keeps rising.
 
 ## Why one thing at a time
 

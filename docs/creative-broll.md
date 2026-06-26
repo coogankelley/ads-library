@@ -6,7 +6,7 @@ This page is what to show, when to show it, and how to source it from footage yo
 
 ## The aesthetic, in one line
 
-Every b-roll clip is you, on camera, in the life she wants. Travel, sunlight, aspirational, real. Not stock footage, not objects, not empty landscapes, not your hospital floor. If you are not in the frame, it is usually not the shot. The viewer is deciding whether she wants to be you. Show her you.
+Every b-roll clip is you, on camera, in the life she wants. Travel, sunlight, aspirational, real. You can use stock footage, but prioritize your own first. Not objects, not empty landscapes, not your hospital floor. If you are not in the frame, it is usually not the shot. The viewer is deciding whether she wants to be you. Show her you.
 
 A quick filter before any clip makes the cut:
 

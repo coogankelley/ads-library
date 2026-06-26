@@ -42,6 +42,8 @@ Once an ad has gathered enough data to trust (not a handful of clicks, a real sa
 - **Kill** when it is well under the floors after a real sample. Do not nurse a loser or get attached to a line you loved writing. Cut it and move the budget.
 - **Scale** when it is clearing the floors with room to spare and staying stable as spend grows. Raise the budget gradually and watch that the numbers hold. If they crack as you scale, ease back.
 
+**The 20 percent rule.** Whenever you change a budget, up or down, never move it by more than 20 percent at a time. A bigger jump resets the ad's learning and can tank a winner overnight. Small steps, then watch the numbers hold before the next one. This applies whether you are scaling a winner up or pulling spend back.
+
 The discipline is the same one from [Testing](testing.md): give it enough data first, then decide without sentiment. Small numbers lie, and a hook you love is not a hook that earned its spot.
 
 ## The daily tracker

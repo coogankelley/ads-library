@@ -87,6 +87,15 @@ This is the one-body-many-hooks step, where each hook on the front of the same b
 
 Each finished file is one ad. They all go up together so the only thing the data compares is the hook. (Why: [Testing](testing.md).)
 
+!!! tip "Let Claude do the heavy lifting"
+    Editing is the slowest part of this whole process, and a lot of it is repetitive. Claude can help with the parts that eat your time:
+
+    - **Organize first.** Hand Claude your raw files and have it sort the body and every hook into clean, labeled folders before you open CapCut.
+    - **Trim the dead air.** Claude can cut the silences and filler out of your body footage so you start from a tighter base.
+    - **Build the variations.** Once your body is locked, Claude can stitch each hook onto the front and export one finished file per hook, so you are not rebuilding the same project fifteen times by hand.
+
+    Tell Claude what you are working on and let it set up the repetitive pieces. You stay in control of the creative calls.
+
 ## Next
 
 - Get the variations live: [Posting in Meta](posting-meta.md).

@@ -60,7 +60,7 @@ The short-form path trades length for speed and conversation. You are not teachi
 4. A short twist (the honest cost of staying put)
 5. CTA 2 (the same ask, stronger)
 
-The content beat is light or skipped here, because the job is the click and the conversation, not the full explanation. When she messages the keyword or fills the form, she gets the training link and you have an open thread to build rapport in. That is what makes this one suit a newer partner: it is faster to film, and the back-and-forth does some of the warming up for you. (Caption CTAs for this path are in [Headlines and primary text](headlines-and-text.md).)
+The content beat is light or skipped here, because the job is the click and the conversation, not the full explanation. When she messages the keyword or fills the form, she gets the training link and you have an open thread to build rapport in. That is what makes this one suit a newer partner: it is faster to film, and the back-and-forth does some of the warming up for you.
 
 ## Standard, direct to webinar, up close
 

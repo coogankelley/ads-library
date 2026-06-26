@@ -7,10 +7,10 @@ Make your own copy before you enter a single number.
 ## Pick the one that matches your ad
 
 - **Landing Page tracker.** For ads that send traffic straight to a landing page or webinar registration. Watches leads, attendees, saw offer, and back-end sales.
-  [Make a copy of the Landing Page tracker](https://docs.google.com/spreadsheets/d/1GGG6N65_IM6zaqSg9c1esJUcoXyodFA4-0s4Frnz4uA/copy)
+  **[Make a copy of the Landing Page tracker](https://docs.google.com/spreadsheets/d/1GGG6N65_IM6zaqSg9c1esJUcoXyodFA4-0s4Frnz4uA/copy)**
 
 - **DM & Instant Form tracker.** For send-message and instant-form ads. Watches new DMs, connections, MQLs, pushed-to-webclass, and back-end sales.
-  [Make a copy of the DM & Instant Form tracker](https://docs.google.com/spreadsheets/d/1j1iuTvCLSBqCMaNxwpybdOhFJy5sZsyqNFTQPPOumGc/copy)
+  **[Make a copy of the DM & Instant Form tracker](https://docs.google.com/spreadsheets/d/1j1iuTvCLSBqCMaNxwpybdOhFJy5sZsyqNFTQPPOumGc/copy)**
 
 ## Using it
 

@@ -26,19 +26,21 @@ You log all of this in the [hook test tracker](swipe-files/hook-test-tracker.md)
 
 ## How the test campaigns roll out
 
-The test runs in phases, and each phase is its own campaign version. You leave winners running, keep narrowing, and let the data do the cutting.
+The test runs in three phases, and the first two each have their own campaign version. You leave winners running, keep narrowing, and let the data do the cutting.
 
-### Phase 1: V1, test every hook
+### Phase 1: find your winning hooks
 
-Build one campaign (V1) with all your hooks, one ad each, same body. Let it run about 7 days with no changes. Resist touching it, even when one looks weak on day two. At the end, read the scoreboard: which hooks are clearing the CTR floors, pulling webclass registrations, and eating the most of your budget. That last one is a quiet tell. Once a campaign has a few days on it, Meta pushes spend toward the ad it thinks is winning, so the hook taking the most budget is usually Meta agreeing with your numbers. Those are your winners.
+This is the hook hunt, and it runs across more than one campaign round.
 
-### Phase 2: V2, retest the losers
+**V1: test every hook.** Build one campaign (V1) with all your hooks, one ad each, same body. Let it run about 7 days with no changes. Resist touching it, even when one looks weak on day two. At the end, read the scoreboard: which hooks are clearing the CTR floors, pulling webclass registrations, and eating the most of your budget. That last one is a quiet tell. Once a campaign has a few days on it, Meta pushes spend toward the ad it thinks is winning, so the hook taking the most budget is usually Meta agreeing with your numbers.
 
-Duplicate the campaign into V2. Pull the winners out, and run the rest, the ones that did not clearly win the first time, for another 7 days. Leave V1 running while V2 tests. Same metrics decide it. A hook that looked soft in a crowded V1 sometimes proves itself with room to breathe. Across V1 and V2 you are looking for **3 to 5 winning hooks** total.
+**V2: retest the rest.** Once you have a winner, duplicate the campaign into V2 and run all the hooks again except the winner. The winner keeps running in V1. Give V2 another 7 days, same metrics deciding it. A hook that looked soft in a crowded V1 sometimes proves itself with room to breathe.
 
-### Phase 2.5: V3, test the winners in new settings
+Keep narrowing this way, round by round, until you have your **3 to 5 winning hooks.** Those are your proven openers.
 
-Now you have about 4 winning hooks. Take each one and film it again in different places: new location, setting, backdrop, outfit. The hook and the body stay the same. Only the surroundings change. Build V3 with **one ad set per winning hook**, each ad set holding that hook's variations:
+### Phase 2: test the visual (V3)
+
+Now you have about 4 winning hooks, and you already know the wording works. Phase 2 tests the visual. Take each winning hook and film it again in different places: new location, setting, backdrop, outfit. The hook and the body stay the same. Only the surroundings change. Build V3 with **one ad set per winning hook**, each ad set holding that hook's variations:
 
 ```
 V3
@@ -49,9 +51,11 @@ V3
 
 This tells you not just which hook wins, but which version of it wins.
 
-### Phase 3: ride your top 2 to 3
+### Phase 3: test the body, then keep optimizing
 
-Out of all of that, two or three hooks rise to the top. Keep them running, optimize, and keep testing against them. This is your proven set, the base everything new gets measured against. The bar keeps rising.
+Now the lever moves to the body. Same discipline: one variable at a time. You only ever change one thing at a time, whether that is the relatability beat, the content, where you filmed, or how you edited the body. Change one thing, run it, read the result, keep or kill.
+
+Phase 3 does not really end. It is the ongoing operation where you keep optimizing off what the numbers tell you. Your top hooks and best body become the base everything new gets measured against, and the bar keeps rising.
 
 ## Patience is part of the method
 

@@ -25,7 +25,7 @@ Two more pieces of the same rule:
 
 The ad is the very top of the funnel. It has one job, and only one:
 
-**Ad → webclass → discovery → call → enrollment.**
+**Ad → webclass → discovery process → call → enrollment.**
 
 The ad does not sell. The ad does not explain everything. The ad gets her to the webclass and gets her to press play. That is it. The webclass teaches, the discovery process qualifies, the call confirms. If you try to make the ad do all of that, it gets bloated and it converts worse.
 

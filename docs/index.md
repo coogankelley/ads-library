@@ -2,7 +2,7 @@
 
 This is the whole system we use to run Meta ads, in one place. Not a course you have to finish in order. A reference you come back to. The worked examples throughout come from The Next Wave, Kelley's branch of Team Overflow coming to life. When we say "the team," we mean Team Overflow. The Next Wave is just her corner of it. The playbook is the same for everyone. Use the search bar up top or the menu on the left to jump straight to what you need.
 
-## Why this matters now
+## What's changed in Meta
 
 Meta has changed how ads get delivered, and it changes what wins. The targeting you set by hand matters less every month, and the creative matters more. The platform's AI now decides who sees your ad mostly off the ad itself: the hook, the story, the words on screen. It reads the actual meaning of what you say, not just keywords, and it hands your ad to the people most likely to act on it.
 
@@ -37,8 +37,8 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 
 **4. Posting in Meta.** Get the campaign live, with Claude doing the building.
 
+- [Headlines and primary text](headlines-and-text.md). The caption above the video and the headline beneath it. Write these before you build.
 - [Posting in Meta with Claude](posting-meta.md). Hand Claude the pieces, it builds the campaign paused, you publish.
-- [Headlines and primary text](headlines-and-text.md). The caption above the video and the headline beneath it.
 
 **5. Tracking data.** Read the numbers and decide what to keep, kill, or scale.
 
