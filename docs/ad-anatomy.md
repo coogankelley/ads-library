@@ -2,7 +2,7 @@
 
 Every ad we run has the same 6 parts in roughly the same order. Once you can see the parts, you can write them, swap them, and diagnose what is broken. This page is the map. The next two pages ([Writing the body](writing-the-body.md) and [Hooks](hooks.md)) are where you actually build each piece.
 
-## The 6 parts
+## The 6 Parts
 
 **1. Hook.** The first 1 to 3 seconds. The only job is to stop the scroll and earn 3 more seconds of attention. A bold claim, a contradiction, a surprising line, a striking visual. This is the one piece we swap and test. More in [Hooks](hooks.md).
 
@@ -16,7 +16,7 @@ Every ad we run has the same 6 parts in roughly the same order. Once you can see
 
 **6. CTA 2 (closer).** The same ask as CTA 1, stronger now because she is emotionally bought in. This is where the weight of the twist pays off into the click.
 
-## Body vs hook
+## Body vs Hook
 
 This is the most important distinction in how we build ads, so get it now:
 
@@ -25,7 +25,7 @@ This is the most important distinction in how we build ads, so get it now:
 
 Why: holding the body steady so only the hook changes is what lets the data tell you which first three seconds earned their spot. That is the one-variable-at-a-time method, explained in full in [The Ads Strategy](strategy.md) and [Testing](testing.md).
 
-## The format is one of several
+## The Format Is One of Several
 
 The 6 parts are the constant. What changes is how long the ad runs, the order the parts come in, and where you send her at the end. Long-form edification is one way to do it, not the only way. You pick the type first, then build the 6 parts to fit it. Three we run from:
 
@@ -35,7 +35,7 @@ The 6 parts are the constant. What changes is how long the ad runs, the order th
 
 Same 6 parts every time. Only the length, the order, and the final destination move. Where you actually pick one and commit before you write is [The Ads Strategy](strategy.md), step 0.
 
-## Long-form edification, up close
+## Long-Form Edification, Up Close
 
 The long-form path is the one we built, so here it is in full. On top of the 6 parts, this version has two short edification beats where you point to the webclass host and why she is worth an hour. They slot in like this:
 
@@ -50,7 +50,7 @@ The long-form path is the one we built, so here it is in full. On top of the 6 p
 
 We write these so the edification beats could be lifted out later without the script breaking. If you ever host your own training, the spine still stands.
 
-## Short-form, direct response, up close
+## Short-Form, Direct Response, Up Close
 
 The short-form path trades length for speed and conversation. You are not teaching the whole mechanism on camera, you are earning enough trust to get her to raise her hand. The shape:
 
@@ -62,7 +62,7 @@ The short-form path trades length for speed and conversation. You are not teachi
 
 The content beat is light or skipped here, because the job is the click and the conversation, not the full explanation. When she messages the keyword or fills the form, she gets the training link and you have an open thread to build rapport in. That is what makes this one suit a newer partner: it is faster to film, and the back-and-forth does some of the warming up for you.
 
-## Standard, direct to webinar, up close
+## Standard, Direct to Webinar, Up Close
 
 The standard path leads with the demonstration instead of the story. You hook, then go straight into showing how the thing works, then place yourself in it. The shape:
 
@@ -75,7 +75,7 @@ The standard path leads with the demonstration instead of the story. You hook, t
 
 No host edification beats, because you are sending her straight to the training rather than pointing to someone else's webclass. It runs shorter than the long-form version and leans on the strength of the demonstration to carry it. Use it when the proof is in showing the mechanism fast, not in the slow build of the story.
 
-## How the parts hand off
+## How the Parts Hand Off
 
 The parts are not islands. Each one sets up the next:
 

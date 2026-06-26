@@ -2,7 +2,7 @@
 
 Before you touch Ads Manager, before you write a single line, two things have to be in your head. The one rule that decides whether an ad works, and where the ad actually sits in the bigger picture. Get these and everything else in this library makes sense.
 
-## The one rule: show, don't tell
+## The One Rule: Show, Don't Tell
 
 A Meta video ad is a demonstration, not a monologue. That is the whole thing. Every time you are about to say something important, stop and ask: how can I show this as I say it.
 
@@ -21,7 +21,7 @@ Two more pieces of the same rule:
 - **Pattern interrupt every 3 to 4 seconds.** New angle, new b-roll, new text on screen, a cut, anything that resets attention before she scrolls. Her thumb is always moving. Your job is to keep giving her a reason not to.
 - **Make her see herself in it.** The proof is not just you living the life. It is her picturing herself living it. More on that in [Finding your ICA](finding-your-ica.md).
 
-## Where the ad sits
+## Where the Ad Sits
 
 The ad is the very top of the funnel. It has one job, and only one:
 
@@ -31,7 +31,7 @@ The ad does not sell. The ad does not explain everything. The ad gets her to the
 
 So when you are deciding whether a line belongs in the ad, the test is simple: does it move her one step closer to watching the webclass. If it does not, cut it.
 
-## What we are actually selling in the ad
+## What We Are Actually Selling in the Ad
 
 We lead with the vehicle, never the income. The mechanism, in plain language:
 
@@ -44,13 +44,13 @@ You show this. Screen recordings, the funnel itself, simple visuals. You do not 
 
 What you never do is put a dollar figure or an income promise anywhere near it. That is both our rule and Meta's, and it is serious enough to get an account shut down. Read [Compliance](compliance.md) before you write.
 
-## The format we run
+## The Format We Run
 
 There are a few ways to structure a video ad, and you pick one before you write (that is step 0 in [The Ads Strategy](strategy.md)). The one we built for The Next Wave, and the one most examples in this library use, is a long-form, story-led ad: you on camera, telling your own story, edifying the webclass host, driving to the free training. It is written so the host segments could be removed later without the script falling apart.
 
 It is one option, not the only one. The full breakdown of the types, and the 6 parts they all share, is in [Ad anatomy](ad-anatomy.md).
 
-## Two ground rules
+## Two Ground Rules
 
 - **Hard work is not the issue.** If you are here, you already know how to work. This is about pointing it at the right thing.
 - **Done beats clever.** A live ad with rough edges teaches you more in a week than a perfect one sitting in your drafts.

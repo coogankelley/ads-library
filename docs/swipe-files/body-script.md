@@ -4,7 +4,7 @@ Use this to draft your ad body. For each beat, write what you will say (voiceove
 
 This is the one part of the ad that does not change. You write it once, you film it once, and every hook you test swaps in over the top.
 
-## Length target
+## Length Target
 
 - Body voiceover: about 3 minutes 30 seconds.
 - Total with hook on the front: 5 minutes hard ceiling.
@@ -24,7 +24,7 @@ She has to feel "she gets me, she was me" inside the first 30 seconds. This is y
 
 **On screen:** *Visual of old life. Scrubs, work parking lot, alarm clock, the desk you used to sit at. Pattern interrupt every 3 to 4 seconds.*
 
-## Content (the mechanism)
+## Content (the Mechanism)
 
 The teaching beat. The actual vehicle, how it works, why it's different. This is where you demonstrate. Show the dashboard, the funnel, the asset. Don't just claim "I have a business that runs without me," show it.
 
@@ -32,7 +32,7 @@ The teaching beat. The actual vehicle, how it works, why it's different. This is
 
 **On screen:** *Screen recordings, the funnel itself, the dashboard, a clean visual of the loop. Hands doing the thing where possible.*
 
-## CTA 1 (primary)
+## CTA 1 (Primary)
 
 First clear next step. Calm, inviting, logical. Say what the next thing is and demonstrate where the button is.
 
@@ -40,7 +40,7 @@ First clear next step. Calm, inviting, logical. Say what the next thing is and d
 
 **On screen:** *Cursor moving to the button. Screen recording of the landing page.*
 
-## Twist the knife
+## Twist the Knife
 
 The cost of doing nothing. Honest, not manipulative. No fake urgency. Just the truthful picture of what the next 12 months look like if she keeps doing what she's doing.
 
@@ -48,7 +48,7 @@ The cost of doing nothing. Honest, not manipulative. No fake urgency. Just the t
 
 **On screen:** *Sunday-night b-roll, alarm clock, the parking lot again. Close on her future self, not yours.*
 
-## CTA 2 (closer)
+## CTA 2 (Closer)
 
 Same ask as CTA 1, stronger now because she's bought in. This is where the emotional weight pays off into the click.
 
@@ -58,7 +58,7 @@ Same ask as CTA 1, stronger now because she's bought in. This is where the emoti
 
 ---
 
-## Checklist before you film
+## Checklist Before You Film
 
 - [ ] Read the entire body out loud. Does it sound like you talking to one woman, or like a brand talking to a market.
 - [ ] Time it. Body voiceover under 4 minutes.

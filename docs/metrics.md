@@ -1,4 +1,4 @@
-# Metrics and optimizing
+# Metrics and Optimizing
 
 Numbers tell you where the funnel is leaking. Each stage has a minimum it has to clear. Above the minimum, that stage is doing its job. Below it, that is the stage to fix before you touch anything else. These are not dream numbers. They are floors. Hitting them means the stage works. Beating them means it works well.
 
@@ -6,7 +6,7 @@ The point of reading metrics this way: you stop guessing and you stop optimizing
 
 This page is how to *act* on the numbers. For what each number means, its floor, and how the tracker calculates it, see [Understanding your KPIs](understanding-kpis.md).
 
-## The top of the funnel (what the ad is judged on)
+## The Top of the Funnel (What the Ad Is Judged On)
 
 This is the part you control directly when you make ads.
 
@@ -20,7 +20,7 @@ This is the whole reason you batch [15 to 20 hooks](hooks.md) against one body. 
 
 One trap to watch: the ad can be doing its job and still look like it is failing, because the page behind it is leaking. The ad dumps cold traffic onto the webclass landing page. If that page still carries old income-claim language or a clumsy layout, a great ad bleeds out right there. Worth fixing the page before you scale spend behind a winning ad.
 
-## Downstream (context, not ad levers)
+## Downstream (Context, Not Ad Levers)
 
 These are further down the funnel. You do not fix them by changing the ad, but it helps to know what good looks like, because a problem here can look like an ad problem if you are not watching the whole chain.
 
@@ -34,7 +34,7 @@ These are further down the funnel. You do not fix them by changing the ad, but i
 
 (Full definitions and the diagnosis for each are in [Understanding your KPIs](understanding-kpis.md).)
 
-## Keep, kill, or scale
+## Keep, Kill, or Scale
 
 Once an ad has gathered enough data to trust (not a handful of clicks, a real sample), you make one of three calls:
 
@@ -46,19 +46,19 @@ Once an ad has gathered enough data to trust (not a handful of clicks, a real sa
 
 The discipline is the same one from [Testing](testing.md): give it enough data first, then decide without sentiment. Small numbers lie, and a hook you love is not a hook that earned its spot.
 
-## The daily tracker
+## The Daily Tracker
 
 You log the numbers daily into one sheet so the whole funnel sits in one row and a leak shows up the next morning instead of three weeks and a lot of spend later. There are two versions (Landing Page, and DM / Instant Form), one row per day grouped into months, with the targets written right into the column headers. Pick the one that matches your ad, make your own copy, and never type over the master.
 
 Which one to use, every column defined, and how each metric is calculated all live in [Understanding your KPIs](understanding-kpis.md). The point is not the logging, it is that the tracker tells you which stage broke before you have wasted budget on it.
 
-## Let Claude pull and read the numbers
+## Let Claude Pull and Read the Numbers
 
 You do not have to export CSVs or copy cells by hand. Claude is connected to your Meta ad account for reads, so you can just ask: pull the numbers on my live hook test. It reads CTR (All), CTR (Link), and landing-page conversion for each hook, lines them up against the floors above, and tells you which hooks are clearing the bar and which are not. It can drop the day's numbers straight into your tracker copy so the row is filled for you.
 
 It is reads only, on purpose. Claude pulls and reports, but it never changes a budget and never flips anything live or off. Those calls stay yours, the same rule as [Posting in Meta](posting-meta.md). What you get is the read done in seconds, so your time goes to deciding instead of collecting.
 
-## How to actually run this
+## How to Actually Run This
 
 You do not stare at a dashboard all day. You check the top-of-funnel numbers, find the lowest stage that is under its floor, and fix that one thing. Then you re-check. One leak at a time, in order, from the top. Chasing five metrics at once is how you spend a week optimizing and move nothing.
 

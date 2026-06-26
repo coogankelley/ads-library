@@ -1,10 +1,10 @@
-# Compliance and guardrails
+# Compliance and Guardrails
 
 Read this before you write, not after. This niche (online income, affiliate, business opportunity) is one of the most heavily scrutinized categories on Meta. A single violation can restrict or shut down an ad account, and the account is the thing the whole business runs on. So compliance is not a final check you run on a finished ad. It is a writing constraint from the first word.
 
 The good news: the rules force better writing. Every line below is also just sharper copy. Vague hype gets flagged. Specific, honest, in-her-language writing does not.
 
-## The one rule that gets ads killed: Personal Attributes
+## The One Rule That Gets Ads Killed: Personal Attributes
 
 This is the big one. Meta does not let you assert or imply that you know things about the person watching. Not their money, not their job, not how they feel.
 
@@ -17,7 +17,7 @@ The test is simple. Standalone "you" is fine. "You + an attribute" is not.
 
 Meta's 2026 review system reads synonyms and euphemisms, so swapping the exact words does not save you. The test is whether the *idea* claims to know her, not whether you dodged a specific phrase.
 
-### Where to stand instead
+### Where to Stand Instead
 
 You have three safe lanes. Write from these and you almost never trip the wire:
 
@@ -27,7 +27,7 @@ You have three safe lanes. Write from these and you almost never trip the wire:
 
 The risky lane, the one to avoid: second-person call-outs of her job, her money, or her emotional state.
 
-## No income claims, no dollar figures
+## No Income Claims, No Dollar Figures
 
 No specific results, no typical results, no guaranteed results. No income numbers. No "easy," no "passive," no "money while you sleep."
 
@@ -35,7 +35,7 @@ This is Meta policy, and it is also just what works in this niche. Describe the 
 
 One nuance worth knowing: **cost-of-entry figures are okay, income figures are not.** "Around five dollars a day in ad spend" describes a cost and is fine. "Make X a month" describes earnings and is banned. When in doubt, if the number describes money coming *in*, cut it.
 
-## Scarcity: use the real kind, never the fake kind
+## Scarcity: Use the Real Kind, Never the Fake Kind
 
 Scarcity works, and it's worth understanding why. When something is always available, there's no cost to waiting, so she waits. And "later" is where most decisions quietly die. A real deadline removes the option to stall. It moves her to decide now instead of someday, which is exactly what a strong offer earns.
 
@@ -46,7 +46,7 @@ So scarcity is a tool you should use. The only rule is that the thing creating t
 
 Fake scarcity gets flagged by Meta, and it costs you more than the ad. The woman you're selling to is sharp. The first fabricated deadline she catches, she stops believing all of them, including the real ones. Honest urgency still lands the second and third time she sees you. Fake urgency only works until she notices.
 
-## Banned words
+## Banned Words
 
 These get an ad flagged or just make it sound like every other coach on the internet. Do not use them:
 
@@ -62,14 +62,14 @@ These get an ad flagged or just make it sound like every other coach on the inte
 
 If a line only works with one of these words in it, the line is weak. Rewrite the angle, do not swap the word.
 
-## A few more standing rules
+## A Few More Standing Rules
 
 - **No em dashes. Anywhere.** Commas, colons, periods, or parentheses. This applies to every ad, caption, and page.
 - **No rhetorical-question openers.** "Ever wonder why...?" is an AI tell. Open with a statement that lands.
 - **Do not name the company.** Rotate "online business," "income vehicle," "high-ticket affiliate," "what I do online." Match the term to the moment.
 - **The destination counts too.** Meta reviews the landing page, not just the ad. An income claim on the webclass page can sink a clean ad and the account with it. The page has to be claim-free too.
 
-## How to actually use this
+## How to Actually Use This
 
 You do not memorize this and write scared. You write from the safe lanes (your story, the general situation, the life she wants), and these rules almost take care of themselves. Run the sweep at the end as a backstop, not as your only defense.
 

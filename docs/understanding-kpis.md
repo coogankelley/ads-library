@@ -1,8 +1,8 @@
-# Understanding your KPIs
+# Understanding Your KPIs
 
 A plain-language guide to what you track, what each number is telling you, and when it is time to act. Check it daily, anytime ads are live. It works for every ad type.
 
-## Why KPIs run the whole thing
+## Why KPIs Run the Whole Thing
 
 KPI is short for Key Performance Indicator: one specific, measurable number that shows how a single step of your funnel is actually performing.
 
@@ -17,7 +17,7 @@ Your tracker holds two kinds of numbers:
 
 Fill in the input columns and let the sheet handle everything else.
 
-## Pick your tracker
+## Pick Your Tracker
 
 There are two versions, both on the [KPI trackers](swipe-files/kpi-trackers.md) page in Templates. Grab the one that matches your campaign and make your own copy before you touch it. The shared version is view-only on purpose, so you never type over the master.
 
@@ -26,7 +26,7 @@ There are two versions, both on the [KPI trackers](swipe-files/kpi-trackers.md) 
 | KPI Tracker, Landing Page (long form / direct to webinar) | Traffic going to a landing page or webinar registration | Leads, attendees, saw offer, and back-end sales |
 | KPI Tracker, DM & Instant Form (short form / send message + instant form) | Send message and instant form campaigns | New DMs, connections, MQLs, pushed to webclass, and back-end sales |
 
-## Baselines: your minimum standards
+## Baselines: Your Minimum Standards
 
 A baseline is the floor for each key step, not the dream number. It is the lowest a metric can sit before it is officially a problem. Anytime something drops under its baseline, it points you straight at a bottleneck. Treat a below-baseline number as a signal, not an emergency, and use the last column to know where to look.
 
@@ -41,7 +41,7 @@ A baseline is the floor for each key step, not the dream number. It is the lowes
 | 07 | Show Rate | >80% | Share of scheduled calls the prospect actually attends | Reminders and confirmation. Not enough posture around the call, or not enough reminders before it. |
 | 08 | Close Rate (back-end sale) | >10% | Share of attended calls that turn into a back-end sale | Lead quality and sales skill. A pile of "I can't afford it" is a lead-quality issue upstream; more often it is a gap in discovery, objection handling, or the close. |
 
-## Glossary and calculations
+## Glossary and Calculations
 
 Every column in the tracker, defined. Anything marked **Calculated** is filled in by a formula, so you never type into it. You only enter the **Input** columns. A few inputs pull straight from Meta or GHL, noted where it applies.
 

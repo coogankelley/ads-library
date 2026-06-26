@@ -1,10 +1,10 @@
-# Finding your ideal client (ICA)
+# Finding Your Ideal Client (ICA)
 
 This is the first real work, before you write a single ad. Your Ideal Client Avatar is one specific woman, so clear you could pick her out of a coffee shop and know what was on her mind when she walked in. Every ad, email, and webclass invite gets written against this. Get it sharp and the rest of the library gets easy. Leave it fuzzy and nothing downstream works.
 
 Each section below tells you what to do, then shows the worked example from The Next Wave. Your answers will be different. The exercises stay the same.
 
-## Why this comes first
+## Why This Comes First
 
 Most ads underperform for one reason: they are written to a fuzzy "audience" instead of to one person. Three traps to dodge from the start:
 
@@ -14,11 +14,11 @@ Most ads underperform for one reason: they are written to a fuzzy "audience" ins
 
 A working test before you start: if your ad copy could be lifted out of your funnel and dropped into someone else's, your avatar is not sharp enough.
 
-## Before you begin
+## Before You Begin
 
 Open a fresh Google Doc. Title it "[Your Project Name] ICA." This is where you build everything below, and it becomes the reference you write every ad against. Work top to bottom, in order. Each section builds on the one before it.
 
-## The 7 dimensions to nail
+## The 7 Dimensions to Nail
 
 ### 1. Snapshot
 
@@ -36,7 +36,7 @@ Open a fresh Google Doc. Title it "[Your Project Name] ICA." This is where you b
 
 The income bracket alone rules out the broke-beginner audience. "The woman everyone else relies on" tells you exactly who she is at work, at home, and in her own head.
 
-### 2. Her daily life
+### 2. Her Daily Life
 
 **What it gives you.** Concrete sensory detail for your hooks and your relatability section. Generic pain sounds like every other ad. A specific Tuesday-at-2pm detail stops the scroll.
 
@@ -53,7 +53,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 "She measures her year in PTO" is what turns this from generic to surgical. That line could be a hook on its own.
 
-### 3. What she actually wants
+### 3. What She Actually Wants
 
 **What it gives you.** The shape of the outcome you are selling, in her words. Surface wants (more time, more money, less stress) are obvious. The deeper wants are where the offer lives.
 
@@ -71,7 +71,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 "Booking a flight on a Tuesday without checking her bank account" is doing all the work. That is the level of specificity to chase.
 
-### 4. Where she's stuck
+### 4. Where She's Stuck
 
 **What it gives you.** The exact friction your offer removes. This powers your twist-the-knife section and your objection-flip hooks. If you cannot name where she is stuck, you cannot position your solution against the stuck-ness.
 
@@ -91,7 +91,7 @@ The income bracket alone rules out the broke-beginner audience. "The woman every
 
 That one sentence is the angle the whole funnel is built around. Get yours that tight.
 
-### 5. What she fears
+### 5. What She Fears
 
 **What it gives you.** The emotional pressure point. This is where the twist-the-knife section pulls from. Fear is not where you start the relationship, but it is what makes a procrastinator finally move.
 
@@ -107,7 +107,7 @@ That one sentence is the angle the whole funnel is built around. Get yours that 
 
 "Stayed safe and smart" is the kill shot. That is a hook waiting to be written.
 
-### 6. Her awareness level
+### 6. Her Awareness Level
 
 **What it gives you.** What you can and cannot say in the first three seconds. Most cold traffic is not solution-aware. Write to a most-aware audience but show it to an unaware one and your CTR craters.
 
@@ -123,7 +123,7 @@ The five levels: **Unaware** (does not know the problem has a name), **Problem-a
 
 **How The Next Wave did it:** About the problem, she is distracting more than admitting (vacations, shopping, wine, scrolling). She feels the discontent but has not named it, and when she does she defaults to "I should be grateful." About solutions, mostly unaware with quiet curiosity. She has seen online business in passing but has not seriously considered it for someone like her. Not solution-shopping yet, just feeling out whether it is even real. Targeting tier: Unaware plus Problem-Aware only.
 
-### 7. Her language and tone
+### 7. Her Language and Tone
 
 **What it gives you.** The actual words to put in the ad, and the tone that earns her trust. Most people skip this dimension. It is the one that decides whether she watches three seconds or three minutes.
 
@@ -141,7 +141,7 @@ The five levels: **Unaware** (does not know the problem has a name), **Problem-a
 
 **Tone she trusts:** Warm, direct, real. Big-sister honest. Speaks to her like an equal, not a beginner, not a follower, not like she needs hyping into believing in herself. She already believes in herself, she just does not see the path yet. Show her the path. Do not sell her a dream.
 
-## Two tests before you call it done
+## Two Tests Before You Call It Done
 
 **The scroll-stop test.** Pick three lines from your "stops her scroll" list. Picture her scrolling at 9pm on a Tuesday. Would she stop? Screenshot? Send it to a friend? If the honest answer is "maybe," the lines are not sharp enough. Back to dimension 7.
 
@@ -149,7 +149,7 @@ The five levels: **Unaware** (does not know the problem has a name), **Problem-a
 
 When both pass, you have an ICA you can write against.
 
-## What to do with it once you have it
+## What to Do With It Once You Have It
 
 The ICA is the source document. Everything else pulls from it.
 

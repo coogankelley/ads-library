@@ -4,13 +4,13 @@ The hook is the first 1 to 3 seconds. It is the only part of the ad we swap and 
 
 This page is how to write hooks that work. Write yours in the [hook bank template](swipe-files/hook-bank.md).
 
-## One body, many hooks
+## One Body, Many Hooks
 
 We do not write a new ad every time. We write one body we trust and 15 to 20 different hooks that swap in over the top. We film all of them against the same body, then let the data tell us which hooks earned their spot. The hook is the only variable. (Why this matters is in [Testing](testing.md).)
 
 So your job this stage is volume then quality. Write 15 to 20, then cut hard.
 
-## What makes a hook actually work
+## What Makes a Hook Actually Work
 
 A hook is not a slogan. It is a line that says "I see you" in the first 2 seconds. Three things keep showing up in the hooks that perform:
 
@@ -18,7 +18,7 @@ A hook is not a slogan. It is a line that says "I see you" in the first 2 second
 - **It is a statement, not a question.** "Ever wondered why..." is an AI tell and it does not land. Lead with something that actually says something.
 - **It is specific.** Specific beats clever every time. The more precise the image, the more it feels like it is about her and not about a market.
 
-## The rules (non-negotiable)
+## The Rules (Non-Negotiable)
 
 These are baked in before you write, not checked after:
 
@@ -30,7 +30,7 @@ These are baked in before you write, not checked after:
 - **No em dashes.** Anywhere. Commas, colons, periods, parentheses.
 - **Length.** 1 to 3 seconds spoken. Usually one sentence, sometimes two short ones.
 
-## The angles to pull from
+## The Angles to Pull From
 
 You do not need 20 hooks on one idea. You need 15 to 20 across different angles so you can see which doors actually open. The angles that tend to work for this avatar:
 
@@ -45,7 +45,7 @@ You do not need 20 hooks on one idea. You need 15 to 20 across different angles 
 
 These are angles, not scripts. Your hook is your own line, in your own voice, on the angle.
 
-## The pattern library
+## The Pattern Library
 
 There is a deeper layer behind those angles: 24 hook patterns (Open Loop, Contrarian, Future Pace, Objection Flip, Confession, Sticky Analogy, and so on), each one a different psychological door into the same message. The way to use them: pick the **awareness level first** (for this avatar, Unaware and Problem-Aware only), then pick a **pattern**, then write the line in your own voice.
 
@@ -56,7 +56,7 @@ Not every pattern is safe for this niche. Keep to the ones that work without num
 
 The single strongest angle for this avatar comes straight out of her [ICA](finding-your-ica.md): she has spent years fixing how she *feels* about her situation instead of changing the *vehicle* she earns through. True, not hype, and it works as a Contrarian or Common Enemy hook.
 
-## Real examples from The Next Wave
+## Real Examples From The Next Wave
 
 These are from our own locked hook set, so you can see the rules in action. Notice every one is a statement, names her reality, and is either first person or a general truth (never a second-person call-out of her job or feelings):
 
@@ -69,7 +69,7 @@ These are from our own locked hook set, so you can see the rules in action. Noti
 
 What none of them do: promise a dollar amount, call out her job in the second person, use the word "easy," or try to sell in the first sentence. The hook earns 3 more seconds. That is its only job.
 
-## Write, then narrow
+## Write, Then Narrow
 
 1. Open the [hook bank template](swipe-files/hook-bank.md) and your audience notes.
 2. Write 15 to 20. Keep the weak ones in the list while you draft.

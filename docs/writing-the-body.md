@@ -4,7 +4,7 @@ The body is the engine of the ad. It is everything from Relatability through CTA
 
 This page is how to write it. Use the [body script template](swipe-files/body-script.md) to actually draft it.
 
-## Know your ad type first
+## Know Your Ad Type First
 
 The body you write depends on the ad type you picked back in [Ad anatomy](ad-anatomy.md). The three shapes, in short:
 
@@ -14,11 +14,11 @@ The body you write depends on the ad type you picked back in [Ad anatomy](ad-ana
 
 This page walks the **long-form** version as the model, because it has every beat at full size. The beats themselves are the same across all three. The shorter types just compress a few or drop one. (Full structures for each are in [Ad anatomy](ad-anatomy.md).)
 
-## Pair every line with something to show
+## Pair Every Line With Something to Show
 
 As you draft each beat, pair the important lines with something to show on screen: b-roll, a screen recording, a text overlay, an angle change. This is the [show, don't tell](foundations.md) rule in practice. Note those visuals as you write, because that is what you film and cut from later.
 
-## How to write each beat
+## How to Write Each Beat
 
 ### Relatability
 
@@ -28,7 +28,7 @@ Lead with who you were and what you were doing, then the exact moment something 
 
 On screen: your old life. Scrubs, the work parking lot, the desk, the alarm clock. Pattern interrupt every 3 to 4 seconds.
 
-### Content (the mechanism)
+### Content (the Mechanism)
 
 The teaching beat. Lead with the vehicle, not the income. Explain in plain language: where the product comes from, how the system works, why it does not require trading more hours. This is where you demonstrate.
 
@@ -42,7 +42,7 @@ The first clear next step. Calm, inviting, logical. Say what the next thing is a
 
 On screen: the cursor moving to the button, the landing page.
 
-### Twist the knife
+### Twist the Knife
 
 The honest cost of doing nothing. Not manipulation, no fake urgency. Paint the version of next year that is waiting if nothing changes. Specific images: the same shifts, the same Sunday dread, the same mental math before every purchase.
 
@@ -56,7 +56,7 @@ Same ask as CTA 1, stronger now because she is bought in. This is where the emot
 
 On screen: the final demonstration of the click. End on a clean closing frame.
 
-## A worked example: The Next Wave
+## A Worked Example: The Next Wave
 
 Here is how the beats came together for our own ad, so you can see the shape in real language. This is the model, not a script to copy. Yours has to sound like you.
 
@@ -68,7 +68,7 @@ Here is how the beats came together for our own ad, so you can see the shape in 
 
 Notice what none of it does: no dollar figure, no income promise, no calling out her job in the second person, no "easy" or "passive." It still hits, because it is specific and true.
 
-## Before you film
+## Before You Film
 
 Run the checklist at the bottom of the [body script template](swipe-files/body-script.md). The big ones:
 

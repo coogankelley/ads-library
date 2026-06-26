@@ -1,10 +1,10 @@
-# Creative and b-roll
+# Creative and B-Roll
 
 B-roll is everything on screen that is not your talking head. It is how you obey the one rule of [Foundations](foundations.md): show, do not tell. Every important line in your script should have something visual sitting behind it. When you say the business runs while you travel, the screen should show you on a laptop on a beach, not your face saying the words.
 
 This page is what to show, when to show it, and how to source it from footage you probably already have.
 
-## The aesthetic, in one line
+## The Aesthetic, in One Line
 
 Every b-roll clip is you, on camera, in the life she wants. Travel, sunlight, aspirational, real. You can use stock footage, but prioritize your own first. Not objects, not empty landscapes, not your hospital floor. If you are not in the frame, it is usually not the shot. The viewer is deciding whether she wants to be you. Show her you.
 
@@ -16,7 +16,7 @@ A quick filter before any clip makes the cut:
 
 If it is three yeses, it is a candidate.
 
-## Where b-roll goes (density by section)
+## Where B-Roll Goes (Density by Section)
 
 You do not overlay b-roll the whole way through. The body is already you on camera. B-roll comes in at the emotional turns, and it goes heavy through the transformation reveal, because that is where she decides she wants in. A rough map for a long-form ad:
 
@@ -25,7 +25,7 @@ You do not overlay b-roll the whole way through. The body is already you on came
 - **How it works / the pivot.** Heavy. This is the reveal. Lead with the working-from-paradise hero shot, then stack lifestyle clips.
 - **The CTA.** An aspirational stack. "The women living the life you want," shown as you. Quick cuts to ramp the emotion into the call to action.
 
-## The shots that carry the most weight
+## The Shots That Carry the Most Weight
 
 A few clips do most of the work. In The Next Wave library these were the heroes, and they are a good template for what to look for in your own footage:
 
@@ -34,7 +34,7 @@ A few clips do most of the work. In The Next Wave library these were the heroes,
 - **A joy shot.** You genuinely laughing, ideally a candid couple or friends moment in turquoise water or somewhere beautiful. Pure freedom, not posed.
 - **A warm closer.** A celebration moment, a birthday dinner, string lights, real happiness. End the ad on warmth so the last frame feels like a life, not a pitch.
 
-## Sourcing from footage you already have
+## Sourcing From Footage You Already Have
 
 You almost certainly have more than you think. The fastest path is to mine old vacation and lifestyle footage before you film anything new.
 
@@ -43,7 +43,7 @@ You almost certainly have more than you think. The fastest path is to mine old v
 - **Clip length does not matter much.** Even a three-second clip earns its place if the moment is right. You are cutting fast anyway.
 - **Match the clip to the line.** A contemplative profile shot goes under the inner-shift moment. A laughing couple shot goes under the freedom line. Pair the visual to the meaning, not just the timeline.
 
-## The gaps worth filming on purpose
+## The Gaps Worth Filming on Purpose
 
 Old footage will not cover everything. The shots an aspirational archive almost never has, and that are worth capturing on your next shoot:
 

@@ -2,7 +2,7 @@
 
 Editing is where raw footage becomes an ad that holds attention. You cut the body once, then drop each hook on the front to make your variations. This page is the full CapCut workflow, start to finish.
 
-## Three principles to edit by
+## Three Principles to Edit By
 
 These sit on top of everything below. If a cut does not serve one of them, it is not earning its place.
 
@@ -10,11 +10,11 @@ These sit on top of everything below. If a cut does not serve one of them, it is
 - **A visual change every 3 to 4 seconds.** A cut, a new clip, a text overlay, an angle change. Keep resetting attention.
 - **Every time you say something important, ask how to show it.** That question is the whole job.
 
-## The order
+## The Order
 
 Film, then: organize, set ratio, build the body, add visuals, export the body, add captions, build the hooks into finished ads, export, send to Meta. Each step below in that order.
 
-### 1. Organize (before you open CapCut)
+### 1. Organize (Before You Open CapCut)
 
 Set your folders up first so you never lose work.
 
@@ -22,19 +22,19 @@ Set your folders up first so you never lose work.
 - A separate folder for raw materials.
 - Never delete raw footage. Organize before you edit.
 
-### 2. Set up
+### 2. Set Up
 
 - New project, import your raw materials, add them to the timeline.
 - **Set the aspect ratio first.** 4:5 and 16:9 are the two ratios performing right now, so pick one of those. 1:1 square has fallen behind, so we no longer default to it. Use your judgment for the specific ad and placement.
 - **Tip: build in 16:9 with a 4:5 guide so you can switch later without rebuilding.** If you edit in 16:9, drop a 4:5 frame (a shape or overlay set to the correct 4:5 dimensions) onto the timeline as a visual guide, and keep your face and captions inside it. Then if you want the 4:5 version, you crop to that frame instead of re-editing the whole video. One edit, two ratios.
 - Scale to fill, then position yourself off-center (rule of thirds) so there is room for graphics and text.
 
-### 3. Build the body
+### 3. Build the Body
 
 - Stitch your take or takes into one continuous body.
 - Cut dead air and anything you do not need. Split, then delete left or delete right are the features you will live in here.
 
-### 4. Add visuals
+### 4. Add Visuals
 
 This is the show-don't-tell layer.
 
@@ -42,7 +42,7 @@ This is the show-don't-tell layer.
 - Graphics and text. If you build graphics outside CapCut, use markers to place them.
 - Finish with transitions and animations.
 
-### 5. Captions (do these after the body is cut)
+### 5. Captions (Do These After the Body Is Cut)
 
 Most of the feed watches with sound off, so captions are not optional. Export the fully edited body and re-upload it as one clip first, then caption.
 
@@ -57,7 +57,7 @@ Most of the feed watches with sound off, so captions are not optional. Export th
 - Export the edited body, re-upload as one clip, generate auto captions, and edit as needed.
 - Use manual templates for any adjustments that do not apply cleanly to the auto captions, and match the settings.
 
-### 6. Hooks into finished ads
+### 6. Hooks Into Finished Ads
 
 This is the one-body-many-hooks step, where each hook on the front of the same body becomes one finished ad. The number of hooks equals the number of finished ads.
 

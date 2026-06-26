@@ -2,7 +2,7 @@
 
 Once your script is written and your hooks are checked, you film. One body, every hook, in one session if you can. This page is how to set up, what to read from, and how to deliver it so it never looks like you are reading.
 
-## Set up once, film everything
+## Set Up Once, Film Everything
 
 The goal is a setup you can sit down at, film the body, then film every hook back to back without moving anything. Same framing, same light, same outfit, so they cut together cleanly later.
 
@@ -18,7 +18,7 @@ If you already have ads running in Meta on horizontal or 1:1, leave them. Do not
 
 **Clean audio beats a nice camera.** A quiet room matters more than lens quality. A small clip-on mic beats a fancy camera with echo. Film away from hard empty walls and background noise. Bad audio makes an ad unwatchable no matter how good you look.
 
-### The gear
+### The Gear
 
 A simple kit you can leave set up:
 
@@ -27,7 +27,7 @@ A simple kit you can leave set up:
 - **A clip-on mic**, optional but worth it, for clean audio. [The one we use](https://www.amazon.com/dp/B0FQBSMB4H).
 - **Light:** a window, or one soft light placed in front of you.
 
-## Reading without looking like you are reading
+## Reading Without Looking Like You Are Reading
 
 You are delivering a written script, but it can never look like it. The fix is a teleprompter, set up right.
 
@@ -48,7 +48,7 @@ Voice-activated scrolling is the one feature worth caring about: it moves at you
 
 **You do not have to stare.** Locking onto the lens every second reads as robotic. Keep most of it on the lens, with natural glances away when you pause or land a point. Let your head and hands move like you would in a real conversation. Stiffness is what makes a read obvious, not the glances.
 
-## Delivering it
+## Delivering It
 
 You wrote it to one woman. Deliver it to her. Warm, direct, like you are talking across a table, not presenting to a room.
 
@@ -56,7 +56,7 @@ You wrote it to one woman. Deliver it to her. Warm, direct, like you are talking
 
 **Time the body first.** Read it out loud and time it before you film. Body voiceover under 4 minutes. If it runs long on camera, it ran long on the page. Fix the page, not the take.
 
-## Batch the hooks
+## Batch the Hooks
 
 The body is filmed once. The hooks are the variable you test, so film them all in the same session, against the same setup, so they cut onto the body seamlessly later.
 
@@ -66,7 +66,7 @@ The body is filmed once. The hooks are the variable you test, so film them all i
 
 **Tip: let Claude sort them for you.** Once your hooks are filmed, you can hand the raw files to Claude and have it divide them up and save them into clean, labeled folders (one per hook, takes inside), so everything is organized before you ever open CapCut.
 
-## Grab your b-roll while you are at it
+## Grab Your B-Roll While You Are at It
 
 While you are set up, also capture the b-roll the script calls for. See [Creative and b-roll](creative-broll.md) for what to film and how to source it from footage you already have.
 

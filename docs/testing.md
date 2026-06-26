@@ -2,7 +2,7 @@
 
 Testing is what turns guessing into knowing. You do not decide which hook is best by feel. You film a batch, put real money behind them, and let the data point at the winner. The whole reason the build works the way it does (one body, many hooks) is so the test actually means something.
 
-## One variable at a time
+## One Variable at a Time
 
 If you change two things at once and the numbers move, you do not know which change did it. So you hold everything still except the one thing you are testing.
 
@@ -10,7 +10,7 @@ The body stays locked. The audience stays the same. The placement stays the same
 
 This is also why the [editing setup](editing-capcut.md) builds each variation by dropping a different hook onto the same master body. Same body, different first three seconds, nothing else.
 
-## What you are testing for, and how a winner gets picked
+## What You Are Testing for, and How a Winner Gets Picked
 
 A hook has two jobs, in order: stop the scroll, then earn the click. So you do not crown a winner on one number. You read it as a short funnel, because the hook is the only thing changing between your ads and you want the numbers that isolate it. In order:
 
@@ -24,11 +24,11 @@ Why this order: the hook is the lever you built to be swappable, so you judge it
 
 You log all of this in the [hook test tracker](swipe-files/hook-test-tracker.md), which calculates the rates for you. Full definitions of every number live in [Understanding your KPIs](understanding-kpis.md).
 
-## How the test campaigns roll out
+## How the Test Campaigns Roll Out
 
 The test runs in three phases, and the first two each have their own campaign version. You leave winners running, keep narrowing, and let the data do the cutting.
 
-### Phase 1: find your winning hooks
+### Phase 1: Find Your Winning Hooks
 
 This is the hook hunt, and it runs across more than one campaign round.
 
@@ -38,7 +38,7 @@ This is the hook hunt, and it runs across more than one campaign round.
 
 Keep narrowing this way, round by round, until you have your **3 to 5 winning hooks.** Those are your proven openers.
 
-### Phase 2: test the visual (V3)
+### Phase 2: Test the Visual (V3)
 
 Now you have about 4 winning hooks, and you already know the wording works. Phase 2 tests the visual. Take each winning hook and film it again in different places: new location, setting, backdrop, outfit. The hook and the body stay the same. Only the surroundings change. Build V3 with **one ad set per winning hook**, each ad set holding that hook's variations:
 
@@ -51,13 +51,13 @@ V3
 
 This tells you not just which hook wins, but which version of it wins.
 
-### Phase 3: test the body, then keep optimizing
+### Phase 3: Test the Body, Then Keep Optimizing
 
 Now the lever moves to the body. Same discipline: one variable at a time. You only ever change one thing at a time, whether that is the relatability beat, the content, where you filmed, or how you edited the body. Change one thing, run it, read the result, keep or kill.
 
 Phase 3 does not really end. It is the ongoing operation where you keep optimizing off what the numbers tell you. Your top hooks and best body become the base everything new gets measured against, and the bar keeps rising.
 
-## Patience is part of the method
+## Patience Is Part of the Method
 
 The most common way to ruin a test is to call it too early. A hook that looks weak on day one can settle in once enough people have seen it, and a hook that looks great on twenty clicks can fall apart at two hundred. Let it gather a real sample before you decide anything. The data only means something once there is enough of it.
 

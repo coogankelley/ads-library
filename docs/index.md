@@ -2,7 +2,7 @@
 
 This is the whole system we use to run Meta ads, in one place. Not a course you have to finish in order. A reference you come back to. The worked examples throughout come from The Next Wave, Kelley's branch of Team Overflow coming to life. When we say "the team," we mean Team Overflow. The Next Wave is just her corner of it. The playbook is the same for everyone. Use the search bar up top or the menu on the left to jump straight to what you need.
 
-## What's changed in Meta
+## What's Changed in Meta
 
 Meta has changed how ads get delivered, and it changes what wins. The targeting you set by hand matters less every month, and the creative matters more. The platform's AI now decides who sees your ad mostly off the ad itself: the hook, the story, the words on screen. It reads the actual meaning of what you say, not just keywords, and it hands your ad to the people most likely to act on it.
 
@@ -14,7 +14,7 @@ So the edge is no longer a hidden audience setting. It is knowing your one perso
 
 So before you build anything: we don't just make ads and hope. We're building off a strategy, and we run a deliberate test program, one variable at a time, built off one script. Hooks first, until a handful reliably stop the scroll, then the body. Read [The Ads Strategy](strategy.md) before you write a word, so you know what you are working toward.
 
-## The path, start to finish
+## The Path, Start to Finish
 
 Building an ad runs in five stages, in this order. If you are new, go straight down the list. If you are already running ads and need one thing, search it and get out.
 
@@ -46,7 +46,7 @@ Building an ad runs in five stages, in this order. If you are new, go straight d
 - [Understanding your KPIs](understanding-kpis.md). What every number means, its floor, and how the tracker calculates it.
 - [Metrics and optimizing](metrics.md). Reading the numbers and the daily tracker. When to keep, kill, or scale.
 
-## The two things to read first
+## The Two Things to Read First
 
 - [Foundations](foundations.md). The one rule that runs everything (show, don't tell) and where the ad sits in the bigger picture.
 - [Compliance and guardrails](compliance.md). Income claims sink ad accounts. We never run them. This is not optional reading.

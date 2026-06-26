@@ -1,4 +1,4 @@
-# Hook test tracker
+# Hook Test Tracker
 
 Before an ad earns a spot in your full [KPI tracker](kpi-trackers.md), you use this to pick your winning hooks. You run your batch of hooks against the same body and log the engagement numbers here, so the data tells you which first three seconds actually earned attention.
 
@@ -6,7 +6,7 @@ The link opens a "Make a copy" prompt. Click **Make a copy** and it lands in you
 
 [Make a copy of the Hook test tracker](https://docs.google.com/spreadsheets/d/11opibDetlxnYH1UqB28eldr0s96nPuPnDAJGCuPEjbA/copy)
 
-## What it tracks
+## What It Tracks
 
 One row per hook, in four groups:
 
@@ -17,7 +17,7 @@ One row per hook, in four groups:
 
 You type the inputs (spend, impressions, plays, clicks, registrations). The sheet calculates the rates and costs for you. The hooks that clear the targets are the ones you keep running. The rest you cut.
 
-## Why the webclass column matters
+## Why the Webclass Column Matters
 
 A click is only half the story. The hook that earns the click still has to earn the registration, and those are not always the same hook. A line can stop the scroll and pull clicks, then drop everyone before they sign up. The webclass column is what catches that, so you keep the hooks that bring real leads, not just cheap attention.
 

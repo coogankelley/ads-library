@@ -2,13 +2,13 @@
 
 Use this to write your 15 to 20 hook variations. One body, many hooks. Each hook is a self-contained first 1 to 3 seconds of the ad. They all swap in over the same body.
 
-## Before you write a hook
+## Before You Write a Hook
 
 1. The body has to be drafted first ([body script template](body-script.md)). Hooks are last, not first.
 2. Open your ICA notes. Every hook is written to one specific woman.
 3. Read the rules below before drafting. They are non-negotiable.
 
-## Hook rules
+## Hook Rules
 
 - **Statement, not a question.** No "ever wonder why" or "what if I told you" openers. They sound like AI and they don't land.
 - **Names her reality.** If the hook could be said to any audience, rewrite it.
@@ -18,7 +18,7 @@ Use this to write your 15 to 20 hook variations. One body, many hooks. Each hook
 - **No em dashes.** Anywhere. Commas, colons, periods, parentheses.
 - **Length.** 1 to 3 seconds spoken. Usually one sentence, occasionally two short ones.
 
-## The angles to pull from
+## The Angles to Pull From
 
 You don't need 20 hooks on the same angle. You need 15 to 20 hooks across different angles so you can see which doors actually open. A few that tend to work well for this avatar:
 
@@ -33,7 +33,7 @@ You don't need 20 hooks on the same angle. You need 15 to 20 hooks across differ
 
 These are angles, not scripts. Your hook is your own line, in your own voice, on the angle.
 
-## Your hooks
+## Your Hooks
 
 Number them. Write them out one per line. Keep the bad ones in the list while you draft; you'll cut them in the narrow-down step.
 
@@ -60,7 +60,7 @@ Number them. Write them out one per line. Keep the bad ones in the list while yo
 | 19 |  |  |
 | 20 |  |  |
 
-## Narrow it down
+## Narrow It Down
 
 Once you have 15 to 20, read every one out loud. For each, ask:
 
@@ -70,7 +70,7 @@ Once you have 15 to 20, read every one out loud. For each, ask:
 
 Cut anything that fails any of those. You want to end up filming 15 to 20 you actually believe in.
 
-## Hand it off
+## Hand It Off
 
 Before you film, get a second pair of eyes on the list. Voice check, compliance check, hook strength check. Better one tight list of 15 than a sloppy list of 20.
 
