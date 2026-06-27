@@ -65,7 +65,7 @@ plugins:
   - search
 
 extra_css:
-  - stylesheets/brand-v3.css
+  - stylesheets/brand-v4.css
 
 extra:
   generator: false
