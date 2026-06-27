@@ -104,12 +104,19 @@ input,
 }
 .md-typeset h1 {
   font-weight: 700;
-  border-bottom: 3px solid var(--tal-teal-pop);
-  padding-bottom: 0.3rem;
+  color: #ffffff;
+  background-color: var(--md-primary-fg-color--light); /* lighter navy #2c3f6b */
+  padding: 0.55rem 0.95rem;
+  border-radius: 6px;
+  border-bottom: none;
 }
 .md-typeset h2 {
-  border-bottom: 1px solid rgba(26, 42, 79, 0.15);
-  padding-bottom: 0.2rem;
+  font-weight: 700;
+  background-color: rgba(18, 115, 160, 0.22); /* soft teal tint, more present */
+  border-left: 4px solid var(--tal-teal-pop);
+  border-bottom: none;
+  padding: 0.35rem 0.75rem;
+  border-radius: 0 4px 4px 0;
   margin-top: 2.2rem;
 }
 

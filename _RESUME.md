@@ -1,5 +1,14 @@
 # Resume — Next Wave Ads Library build
 
+## GHL GATE — DONE + TESTED LIVE (2026-06-26)
+- Funnel "Ads Library Gate" → form "Ads Library Opt In" (First Name + Email) at
+  kchealthwellness.com/ads-library. On Submit → Redirect to https://coogankelley.github.io/ads-library/.
+- This GHL form version has NO inline add-tags, so the tag is applied by a workflow:
+  trigger "Form Submitted" (filtered to THIS form) → Add Tag `ads-library-access`
+  (tag id OwxziDcrisBskPT0rqPn, created via API with GHL_API_KEY; OAuth token lacks the tags scope).
+- Tested end-to-end 2026-06-26: submit → lands on library + contact gets the tag. Workflow Published.
+- Note: it's a capture/tracking gate, not a lock. The Pages URL is public (noindex only).
+
 ## PICK UP HERE (2026-06-24 eve) — DEPLOYED LIVE
 - Pushed to main 2026-06-24 (auto-deploys ~1 min). Strict build passed, no em dashes.
 - This deploy bundled: the morning's 11 edits + recording.md, PLUS the mentorship-call changes:
