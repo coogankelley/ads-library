@@ -113,6 +113,12 @@ input,
      empty space (most visible on mobile, where there's no white card). */
   display: inline-block;
 }
+/* The permalink anchor (¶) trails the title. Once the box hugs the text it
+   can wrap to a second line, painting an empty navy line under the title.
+   A page title needs no anchor, so drop it from the h1. */
+.md-typeset h1 .headerlink {
+  display: none;
+}
 .md-typeset h2 {
   font-weight: 700;
   background-color: rgba(18, 115, 160, 0.22); /* soft teal tint, more present */
