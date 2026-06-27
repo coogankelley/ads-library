@@ -109,6 +109,9 @@ input,
   padding: 0.55rem 0.95rem;
   border-radius: 6px;
   border-bottom: none;
+  /* Hug the text so the navy box doesn't stretch full width and highlight
+     empty space (most visible on mobile, where there's no white card). */
+  display: inline-block;
 }
 .md-typeset h2 {
   font-weight: 700;
