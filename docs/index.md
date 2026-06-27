@@ -2,6 +2,8 @@
 
 This is the whole system we use to run Meta ads, in one place. Not a course you have to finish in order. A reference you come back to. The worked examples throughout come from The Next Wave, Kelley's branch of Team Overflow coming to life. When we say "the team," we mean Team Overflow. The Next Wave is just her corner of it. The playbook is the same for everyone. Use the search bar up top or the menu on the left to jump straight to what you need.
 
+**Before you start:** make sure you already have your Meta ads account with your pixel set up. That is the baseline the whole library is built on. We also strongly suggest having Claude Code set up, since it does the heavy lifting when you get to building the campaign later. It is not required, but it makes the back half of this a lot easier.
+
 ## What's Changed in Meta
 
 Meta has changed how ads get delivered, and it changes what wins. The targeting you set by hand matters less every month, and the creative matters more. The platform's AI now decides who sees your ad mostly off the ad itself: the hook, the story, the words on screen. It reads the actual meaning of what you say, not just keywords, and it hands your ad to the people most likely to act on it.
